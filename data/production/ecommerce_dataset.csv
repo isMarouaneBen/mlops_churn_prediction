@@ -1,0 +1,1001 @@
+CustomerID,Churn,Tenure,PreferredLoginDevice,CityTier,WarehouseToHome,PreferredPaymentMode,Gender,HourSpendOnApp,NumberOfDeviceRegistered,PreferedOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,OrderAmountHikeFromlastYear,CouponUsed,OrderCount,DaySinceLastOrder,CashbackAmount
+CUST000001,0,11.1,Tablet,Tier 2,30.3,E-wallet,Female,0.9,1,Grocery,2,Single,10,0,24.5,12,9,7.8,237.19
+CUST000002,1,32.5,Tablet,Tier 1,92.0,Debit Card,Female,2.0,2,Fashion,2,Single,12,1,15.9,0,12,23.5,161.73
+CUST000003,1,52.4,Tablet,Tier 1,52.2,UPI,Female,4.7,1,Others,4,Divorced,8,0,25.3,15,8,19.2,257.18
+CUST000004,0,43.9,Computer,Tier 3,85.8,E-wallet,Male,2.0,5,Mobile Phone,2,Married,19,0,11.4,13,3,10.1,134.39
+CUST000005,0,48.4,Computer,Tier 3,47.3,Credit Card,Male,0.6,1,Mobile Phone,2,Divorced,15,0,16.7,3,1,33.2,124.31
+CUST000006,0,39.5,Computer,Tier 1,52.7,Cash on Delivery,Female,2.6,2,Laptop & Accessory,5,Divorced,1,1,24.4,11,4,29.0,220.35
+CUST000007,0,41.5,Tablet,Tier 1,24.4,E-wallet,Female,0.5,4,Laptop & Accessory,1,Single,3,0,15.1,11,8,4.6,224.99
+CUST000008,1,51.0,Computer,Tier 1,36.5,Cash on Delivery,Female,1.0,2,Grocery,3,Divorced,18,0,15.1,16,3,42.6,124.0
+CUST000009,0,15.0,Mobile Phone,Tier 2,78.9,Credit Card,Male,5.0,6,Grocery,1,Married,18,0,15.5,14,10,25.7,316.94
+CUST000010,1,29.4,Mobile Phone,Tier 2,57.8,UPI,Male,2.7,3,Others,4,Single,2,0,20.2,9,12,11.5,228.99
+CUST000011,0,13.3,Computer,Tier 2,99.5,UPI,Male,1.4,3,Laptop & Accessory,1,Divorced,5,1,17.6,2,2,9.5,133.98
+CUST000012,1,59.3,Mobile Phone,Tier 1,109.0,Credit Card,Female,5.0,6,Laptop & Accessory,2,Divorced,1,1,21.9,11,7,6.3,170.07
+CUST000013,1,56.6,Mobile Phone,Tier 3,71.1,Cash on Delivery,Female,4.8,3,Grocery,4,Married,10,0,24.4,0,4,19.5,280.05
+CUST000014,0,2.4,Tablet,Tier 1,97.5,E-wallet,Female,2.2,3,Grocery,1,Divorced,20,0,21.1,0,6,6.2,217.73
+CUST000015,0,42.3,Computer,Tier 2,42.4,Credit Card,Female,1.3,5,Grocery,4,Divorced,10,0,14.1,9,5,19.1,142.33
+CUST000016,0,55.5,Computer,Tier 2,55.6,Debit Card,Female,4.2,4,Mobile Phone,3,Divorced,5,0,25.0,14,2,6.8,123.14
+CUST000017,0,10.8,Tablet,Tier 1,92.0,Cash on Delivery,Male,3.6,4,Fashion,1,Divorced,18,0,15.0,1,10,30.2,196.92
+CUST000018,0,34.1,Mobile Phone,Tier 1,52.1,UPI,Female,3.4,2,Fashion,2,Married,21,0,13.2,16,2,36.1,175.92
+CUST000019,0,54.9,Mobile Phone,Tier 2,76.8,Credit Card,Female,4.5,6,Laptop & Accessory,4,Divorced,15,0,12.3,7,14,25.3,247.58
+CUST000020,0,2.0,Computer,Tier 2,27.6,UPI,Female,3.4,1,Mobile Phone,5,Divorced,20,1,19.5,8,9,31.3,308.18
+CUST000021,0,41.8,Mobile Phone,Tier 2,78.2,Cash on Delivery,Male,1.4,2,Grocery,4,Divorced,8,0,12.7,10,11,43.2,155.74
+CUST000022,0,17.8,Tablet,Tier 1,110.1,UPI,Female,3.5,2,Laptop & Accessory,5,Single,17,1,13.1,5,10,29.4,292.43
+CUST000023,0,55.5,Tablet,Tier 2,111.0,Credit Card,Male,1.5,2,Mobile Phone,2,Married,12,0,15.5,13,2,16.8,307.1
+CUST000024,0,58.3,Computer,Tier 2,93.4,Cash on Delivery,Male,3.8,2,Others,3,Single,21,0,15.2,0,8,20.7,302.95
+CUST000025,0,56.7,Tablet,Tier 3,96.0,Debit Card,Male,3.1,4,Mobile Phone,5,Single,12,1,20.1,6,8,39.6,314.22
+CUST000026,1,28.5,Tablet,Tier 1,73.1,Credit Card,Male,0.4,1,Laptop & Accessory,3,Married,1,0,23.3,8,1,6.0,289.47
+CUST000027,0,51.7,Computer,Tier 3,76.3,E-wallet,Male,2.6,2,Fashion,4,Single,4,0,22.4,10,1,15.0,233.53
+CUST000028,0,50.7,Tablet,Tier 3,21.3,Credit Card,Female,1.7,4,Grocery,2,Single,8,0,14.9,15,13,26.6,192.22
+CUST000029,0,19.1,Tablet,Tier 2,59.2,Cash on Delivery,Female,1.6,2,Others,5,Single,1,0,14.7,1,4,31.1,210.63
+CUST000030,0,49.7,Tablet,Tier 1,60.0,Credit Card,Male,3.0,3,Mobile Phone,4,Married,15,1,25.5,14,2,35.1,296.34
+CUST000031,0,2.2,Mobile Phone,Tier 2,121.9,Debit Card,Male,1.6,2,Laptop & Accessory,1,Divorced,18,1,11.1,2,12,14.6,167.81
+CUST000032,0,35.8,Computer,Tier 1,57.6,Debit Card,Male,3.9,6,Laptop & Accessory,4,Married,1,0,24.2,3,15,6.7,135.83
+CUST000033,0,13.8,Computer,Tier 3,72.0,E-wallet,Female,0.4,6,Grocery,3,Married,11,0,14.0,6,1,43.9,131.68
+CUST000034,1,7.2,Computer,Tier 1,70.1,UPI,Female,3.3,2,Laptop & Accessory,2,Married,2,0,25.2,11,9,3.5,286.07
+CUST000035,1,4.6,Mobile Phone,Tier 2,82.7,Cash on Delivery,Male,4.0,5,Laptop & Accessory,2,Single,1,0,16.1,3,13,4.4,271.33
+CUST000036,1,41.8,Mobile Phone,Tier 2,96.3,Cash on Delivery,Female,3.4,3,Grocery,4,Divorced,12,0,17.6,9,3,22.8,211.97
+CUST000037,0,20.4,Computer,Tier 2,32.5,UPI,Female,2.5,1,Others,1,Married,16,0,21.6,5,14,37.7,161.85
+CUST000038,0,43.5,Mobile Phone,Tier 1,69.5,Debit Card,Male,4.8,2,Fashion,3,Married,22,0,19.8,13,14,35.6,252.46
+CUST000039,0,3.9,Computer,Tier 3,105.8,Debit Card,Male,1.5,1,Fashion,4,Divorced,22,0,15.8,2,14,43.1,108.65
+CUST000040,0,18.9,Mobile Phone,Tier 3,61.5,Credit Card,Female,0.1,3,Mobile Phone,4,Divorced,10,0,19.3,16,1,6.5,227.85
+CUST000041,0,32.4,Tablet,Tier 1,39.0,E-wallet,Female,2.2,2,Others,2,Divorced,18,0,22.0,10,2,17.3,189.65
+CUST000042,0,47.4,Tablet,Tier 2,84.9,E-wallet,Female,0.2,5,Mobile Phone,3,Single,15,0,11.6,9,8,13.0,320.02
+CUST000043,0,19.1,Computer,Tier 3,105.5,E-wallet,Male,4.8,4,Fashion,1,Divorced,17,1,11.2,9,5,39.6,214.2
+CUST000044,1,37.6,Mobile Phone,Tier 2,12.7,Credit Card,Male,1.0,5,Grocery,2,Single,10,1,17.9,9,11,22.5,224.26
+CUST000045,0,53.2,Mobile Phone,Tier 1,99.8,E-wallet,Male,3.9,5,Laptop & Accessory,4,Married,3,0,13.0,2,7,1.2,260.28
+CUST000046,0,37.0,Tablet,Tier 2,105.2,UPI,Female,3.9,4,Fashion,2,Single,21,0,21.0,14,6,32.6,209.02
+CUST000047,0,14.0,Tablet,Tier 3,61.3,Credit Card,Female,1.1,4,Others,2,Divorced,16,1,14.2,16,13,17.9,150.53
+CUST000048,0,1.5,Mobile Phone,Tier 3,125.0,UPI,Male,3.1,6,Fashion,5,Single,6,1,17.5,11,16,24.4,220.89
+CUST000049,0,52.2,Mobile Phone,Tier 2,101.0,Credit Card,Female,0.2,4,Others,2,Divorced,3,1,14.0,4,16,41.1,312.46
+CUST000050,0,1.3,Mobile Phone,Tier 1,99.4,E-wallet,Male,2.4,2,Others,2,Single,9,0,19.2,15,1,11.8,192.23
+CUST000051,1,52.5,Mobile Phone,Tier 2,96.2,UPI,Female,0.1,1,Others,3,Married,11,1,12.7,14,6,11.1,252.92
+CUST000052,1,31.7,Mobile Phone,Tier 1,23.4,UPI,Male,4.6,6,Mobile Phone,2,Single,21,0,11.3,14,11,12.1,320.06
+CUST000053,1,56.3,Mobile Phone,Tier 2,31.5,UPI,Female,4.9,6,Grocery,1,Married,13,0,11.8,5,7,15.6,286.73
+CUST000054,1,47.9,Computer,Tier 3,61.6,Credit Card,Female,1.1,1,Fashion,4,Divorced,18,1,25.3,11,4,4.9,248.28
+CUST000055,0,59.9,Mobile Phone,Tier 1,37.2,Cash on Delivery,Male,1.0,6,Grocery,3,Married,22,0,13.1,1,8,32.1,265.6
+CUST000056,1,21.0,Tablet,Tier 1,55.7,E-wallet,Male,3.8,4,Laptop & Accessory,2,Divorced,22,1,21.6,8,8,9.5,310.71
+CUST000057,0,46.0,Computer,Tier 1,113.4,UPI,Male,1.3,5,Fashion,1,Divorced,4,0,12.0,3,7,42.6,315.94
+CUST000058,0,24.1,Mobile Phone,Tier 3,105.6,Cash on Delivery,Male,4.5,3,Grocery,4,Married,22,1,12.6,4,16,9.9,318.02
+CUST000059,0,28.8,Tablet,Tier 2,81.9,E-wallet,Male,2.9,4,Grocery,3,Married,8,0,18.6,7,11,11.8,240.77
+CUST000060,0,37.7,Computer,Tier 3,109.7,E-wallet,Female,1.8,5,Laptop & Accessory,1,Single,13,1,18.0,9,15,13.7,186.56
+CUST000061,0,52.4,Tablet,Tier 1,100.6,UPI,Male,4.2,5,Others,2,Single,10,0,25.3,6,2,35.4,129.96
+CUST000062,0,59.0,Mobile Phone,Tier 2,57.3,UPI,Male,2.5,6,Fashion,5,Married,2,0,25.2,13,6,19.7,186.75
+CUST000063,1,46.1,Mobile Phone,Tier 3,29.5,Credit Card,Male,4.6,2,Fashion,5,Married,8,0,22.7,4,6,37.7,312.16
+CUST000064,0,25.1,Mobile Phone,Tier 1,67.7,Cash on Delivery,Male,4.6,2,Laptop & Accessory,3,Married,6,0,20.0,15,12,36.1,300.2
+CUST000065,0,25.3,Mobile Phone,Tier 1,94.8,Cash on Delivery,Male,0.8,6,Others,1,Married,16,0,17.8,14,15,42.8,217.82
+CUST000066,0,44.3,Computer,Tier 3,58.2,UPI,Female,0.0,6,Fashion,4,Divorced,18,0,16.3,4,12,34.8,220.83
+CUST000067,0,14.3,Computer,Tier 3,86.3,E-wallet,Male,4.9,1,Fashion,1,Married,17,0,25.2,2,7,2.4,169.51
+CUST000068,1,6.6,Tablet,Tier 3,16.5,UPI,Male,4.5,1,Fashion,5,Married,6,0,20.0,9,6,38.5,202.26
+CUST000069,0,21.3,Mobile Phone,Tier 1,96.3,E-wallet,Male,0.3,3,Others,3,Married,13,0,19.7,4,2,43.2,260.75
+CUST000070,1,17.2,Tablet,Tier 3,104.2,E-wallet,Female,4.2,3,Laptop & Accessory,2,Married,14,1,14.5,14,8,45.7,190.55
+CUST000071,1,17.8,Computer,Tier 1,91.2,UPI,Female,2.3,3,Fashion,1,Divorced,21,0,11.7,7,15,5.8,142.3
+CUST000072,0,14.0,Mobile Phone,Tier 3,123.0,Debit Card,Male,1.3,3,Grocery,5,Single,10,0,25.2,1,4,28.2,221.69
+CUST000073,0,2.5,Mobile Phone,Tier 1,105.9,Cash on Delivery,Male,4.4,5,Others,4,Single,11,0,15.7,7,9,9.2,150.7
+CUST000074,1,1.1,Computer,Tier 1,115.2,E-wallet,Female,1.0,5,Mobile Phone,3,Single,13,0,17.6,7,8,12.1,319.21
+CUST000075,1,59.3,Computer,Tier 2,118.9,E-wallet,Female,4.7,1,Laptop & Accessory,2,Single,12,0,12.7,3,14,34.3,187.83
+CUST000076,1,25.7,Computer,Tier 3,102.8,Debit Card,Female,1.0,2,Grocery,1,Single,9,0,23.6,0,3,45.0,304.67
+CUST000077,1,23.1,Computer,Tier 3,87.3,Credit Card,Male,3.1,6,Fashion,4,Divorced,4,1,11.4,14,3,27.4,150.75
+CUST000078,0,40.8,Computer,Tier 1,5.7,Debit Card,Male,1.1,2,Mobile Phone,2,Single,7,0,23.5,11,8,39.1,142.57
+CUST000079,0,13.1,Mobile Phone,Tier 1,61.8,Debit Card,Female,2.7,4,Laptop & Accessory,5,Divorced,22,0,13.1,0,2,0.4,238.8
+CUST000080,0,57.0,Computer,Tier 1,74.7,E-wallet,Male,3.4,5,Others,5,Divorced,2,0,24.3,6,9,1.7,275.36
+CUST000081,1,47.2,Mobile Phone,Tier 2,42.1,Cash on Delivery,Female,1.0,3,Mobile Phone,4,Single,7,0,21.9,0,4,27.4,227.52
+CUST000082,0,5.4,Mobile Phone,Tier 2,43.8,Debit Card,Female,2.6,3,Mobile Phone,5,Single,9,0,13.5,6,15,17.9,151.7
+CUST000083,0,25.1,Computer,Tier 1,122.3,Credit Card,Female,2.3,4,Grocery,3,Single,5,1,19.5,1,6,40.9,108.53
+CUST000084,0,52.7,Computer,Tier 3,113.8,UPI,Male,0.4,2,Laptop & Accessory,4,Married,15,0,15.7,6,3,13.9,239.11
+CUST000085,0,56.7,Mobile Phone,Tier 3,108.6,Debit Card,Female,4.1,3,Grocery,5,Divorced,18,0,13.7,12,3,19.9,129.48
+CUST000086,0,28.0,Computer,Tier 2,54.5,Debit Card,Female,1.7,2,Grocery,1,Single,4,0,23.9,4,3,24.3,177.21
+CUST000087,1,36.8,Computer,Tier 2,6.7,Credit Card,Male,2.9,6,Fashion,5,Married,19,1,17.1,0,11,12.6,252.05
+CUST000088,0,10.0,Computer,Tier 1,14.8,Cash on Delivery,Female,2.6,4,Others,3,Divorced,20,0,17.0,0,13,41.8,122.06
+CUST000089,1,59.5,Tablet,Tier 3,43.1,Debit Card,Male,2.6,2,Mobile Phone,2,Married,7,0,13.5,0,10,21.4,128.63
+CUST000090,0,13.9,Mobile Phone,Tier 1,6.9,Debit Card,Female,0.5,6,Laptop & Accessory,2,Married,8,0,16.7,4,12,19.5,113.87
+CUST000091,0,56.6,Tablet,Tier 2,7.1,Cash on Delivery,Male,2.1,2,Others,5,Single,17,0,24.1,8,14,39.1,324.12
+CUST000092,1,39.0,Computer,Tier 3,116.8,Credit Card,Female,2.3,2,Others,2,Divorced,13,1,16.4,11,14,14.4,187.09
+CUST000093,1,36.5,Tablet,Tier 3,91.2,Debit Card,Female,3.7,3,Laptop & Accessory,5,Married,21,0,25.3,8,14,37.6,303.8
+CUST000094,0,30.8,Computer,Tier 2,42.7,Cash on Delivery,Female,4.2,1,Others,3,Divorced,11,0,25.2,10,12,5.6,166.06
+CUST000095,1,13.8,Tablet,Tier 1,21.2,Debit Card,Female,2.7,5,Fashion,2,Single,1,1,13.2,0,2,8.4,269.47
+CUST000096,0,10.6,Computer,Tier 1,67.4,UPI,Female,0.4,2,Others,1,Divorced,2,0,13.7,9,8,43.7,149.29
+CUST000097,0,13.2,Tablet,Tier 3,5.7,E-wallet,Male,1.2,2,Fashion,5,Married,17,0,23.9,1,16,38.8,212.12
+CUST000098,0,11.2,Tablet,Tier 2,119.5,UPI,Male,0.8,2,Mobile Phone,2,Married,5,0,16.9,6,9,17.8,285.54
+CUST000099,0,46.8,Tablet,Tier 3,55.6,Debit Card,Female,0.6,1,Mobile Phone,3,Divorced,6,0,11.1,1,15,29.4,283.68
+CUST000100,0,21.0,Mobile Phone,Tier 2,54.1,Credit Card,Female,1.8,6,Grocery,3,Married,7,0,15.1,5,8,43.4,278.71
+CUST000101,0,3.5,Tablet,Tier 1,52.7,E-wallet,Female,1.1,4,Fashion,1,Married,21,1,20.0,9,15,9.7,285.34
+CUST000102,0,58.1,Mobile Phone,Tier 2,13.5,UPI,Male,1.1,3,Mobile Phone,3,Married,15,0,23.0,8,10,2.7,147.58
+CUST000103,0,53.0,Computer,Tier 1,82.9,Cash on Delivery,Male,0.3,1,Others,3,Single,19,0,13.0,7,3,24.7,208.5
+CUST000104,0,55.7,Tablet,Tier 2,94.4,Credit Card,Female,0.1,6,Laptop & Accessory,2,Single,16,1,12.7,10,7,6.6,209.1
+CUST000105,1,59.7,Computer,Tier 3,87.5,UPI,Male,0.5,2,Laptop & Accessory,5,Married,13,0,24.8,8,11,8.6,300.36
+CUST000106,0,10.4,Computer,Tier 1,21.9,Cash on Delivery,Female,0.9,6,Fashion,4,Divorced,5,0,22.3,8,10,41.0,166.8
+CUST000107,0,23.8,Tablet,Tier 3,75.6,Debit Card,Female,2.2,1,Grocery,3,Single,3,0,19.8,7,2,0.3,309.59
+CUST000108,1,45.5,Mobile Phone,Tier 3,74.5,Cash on Delivery,Female,2.6,1,Others,3,Divorced,3,1,22.5,14,4,37.6,201.43
+CUST000109,0,41.8,Tablet,Tier 1,110.9,UPI,Male,0.7,1,Fashion,4,Married,19,1,17.4,1,12,23.8,250.7
+CUST000110,0,9.2,Computer,Tier 1,51.3,UPI,Female,2.1,4,Laptop & Accessory,3,Married,14,1,22.4,0,13,25.7,160.5
+CUST000111,0,48.9,Computer,Tier 3,50.3,Debit Card,Female,1.7,5,Fashion,2,Divorced,16,1,16.6,8,14,30.9,192.32
+CUST000112,0,13.5,Tablet,Tier 3,80.5,Cash on Delivery,Female,0.9,3,Others,2,Single,22,0,14.7,8,13,19.8,259.71
+CUST000113,1,13.4,Mobile Phone,Tier 3,82.2,Cash on Delivery,Male,0.0,4,Mobile Phone,4,Divorced,17,0,21.9,12,6,5.3,215.37
+CUST000114,1,32.2,Mobile Phone,Tier 3,62.3,Debit Card,Male,2.3,4,Others,3,Divorced,4,1,17.3,7,11,4.7,309.41
+CUST000115,0,35.6,Computer,Tier 1,59.1,Cash on Delivery,Male,3.4,5,Mobile Phone,3,Married,13,0,25.7,4,5,34.7,265.85
+CUST000116,1,34.8,Computer,Tier 1,65.3,Debit Card,Female,1.1,4,Mobile Phone,5,Single,8,0,16.2,2,13,10.2,226.99
+CUST000117,1,5.5,Mobile Phone,Tier 3,110.0,Credit Card,Male,0.7,1,Mobile Phone,3,Divorced,19,0,24.8,3,9,1.3,299.5
+CUST000118,0,52.6,Tablet,Tier 2,61.3,UPI,Female,4.4,1,Fashion,2,Single,5,0,25.0,16,10,45.1,249.75
+CUST000119,1,15.9,Computer,Tier 2,119.7,Credit Card,Male,1.4,6,Laptop & Accessory,1,Married,2,1,14.6,15,4,45.1,245.65
+CUST000120,0,7.8,Mobile Phone,Tier 1,66.5,E-wallet,Female,1.1,2,Fashion,1,Single,15,0,23.0,15,5,17.4,155.43
+CUST000121,1,53.3,Computer,Tier 3,120.8,E-wallet,Male,4.3,4,Laptop & Accessory,1,Married,2,0,17.5,2,4,1.2,188.84
+CUST000122,1,57.3,Tablet,Tier 3,106.6,E-wallet,Female,4.1,2,Others,1,Single,11,1,24.8,5,14,33.5,253.74
+CUST000123,0,51.7,Mobile Phone,Tier 1,49.2,Debit Card,Male,2.2,3,Grocery,3,Divorced,13,0,17.8,0,13,38.2,300.65
+CUST000124,0,48.6,Computer,Tier 2,110.4,Cash on Delivery,Male,2.4,1,Others,3,Married,10,0,22.2,15,14,5.8,171.0
+CUST000125,0,39.3,Tablet,Tier 2,18.4,Credit Card,Male,1.1,6,Fashion,5,Divorced,3,0,18.0,14,8,6.2,148.48
+CUST000126,0,33.1,Computer,Tier 2,117.9,Credit Card,Female,0.4,3,Fashion,3,Married,5,1,14.4,6,16,37.8,233.58
+CUST000127,1,5.2,Tablet,Tier 1,82.1,Credit Card,Male,2.9,6,Laptop & Accessory,1,Single,3,1,14.0,1,13,42.4,115.12
+CUST000128,1,24.5,Tablet,Tier 2,11.6,Credit Card,Male,0.5,5,Fashion,4,Single,6,1,17.4,9,8,36.4,260.77
+CUST000129,0,22.4,Mobile Phone,Tier 1,83.6,E-wallet,Male,2.2,1,Mobile Phone,4,Married,13,0,22.3,14,15,9.2,258.21
+CUST000130,0,15.6,Tablet,Tier 1,123.9,Credit Card,Male,4.7,3,Fashion,2,Married,10,0,20.1,5,3,18.9,179.87
+CUST000131,0,43.4,Computer,Tier 3,13.5,Cash on Delivery,Female,4.8,5,Laptop & Accessory,2,Married,19,1,21.3,1,1,27.6,300.85
+CUST000132,0,29.8,Tablet,Tier 2,72.7,E-wallet,Male,1.2,3,Laptop & Accessory,3,Single,8,1,15.2,16,6,7.4,212.99
+CUST000133,0,4.9,Tablet,Tier 1,96.2,Credit Card,Female,3.1,6,Mobile Phone,4,Married,18,0,18.2,0,2,9.7,245.3
+CUST000134,0,13.2,Mobile Phone,Tier 2,103.9,Debit Card,Female,2.4,5,Laptop & Accessory,1,Married,3,0,11.7,0,2,13.0,147.16
+CUST000135,1,41.0,Tablet,Tier 2,55.5,UPI,Female,4.4,5,Grocery,1,Divorced,17,1,23.3,3,3,23.4,193.9
+CUST000136,0,4.6,Tablet,Tier 3,29.9,UPI,Female,1.4,1,Others,1,Married,8,1,25.8,15,8,23.5,294.04
+CUST000137,0,51.1,Computer,Tier 2,10.2,UPI,Male,0.0,2,Fashion,3,Divorced,10,1,17.1,7,3,37.5,147.91
+CUST000138,1,29.7,Mobile Phone,Tier 3,75.7,E-wallet,Female,0.8,6,Grocery,3,Divorced,2,1,11.2,0,16,34.6,187.88
+CUST000139,0,28.8,Mobile Phone,Tier 1,60.3,Credit Card,Female,1.7,6,Fashion,5,Divorced,12,0,13.5,10,7,42.0,171.57
+CUST000140,1,35.5,Mobile Phone,Tier 2,120.7,E-wallet,Female,1.6,5,Grocery,1,Single,6,0,20.8,16,10,38.3,134.0
+CUST000141,1,49.5,Tablet,Tier 1,12.4,Cash on Delivery,Female,4.0,5,Fashion,1,Divorced,2,0,20.2,9,14,11.7,165.19
+CUST000142,0,20.9,Mobile Phone,Tier 2,88.6,Debit Card,Male,3.4,1,Mobile Phone,3,Married,21,0,22.8,11,10,15.2,152.37
+CUST000143,0,40.7,Tablet,Tier 1,8.0,Debit Card,Male,1.5,2,Laptop & Accessory,3,Single,3,0,14.8,8,9,23.0,307.81
+CUST000144,0,33.9,Tablet,Tier 2,25.9,UPI,Female,2.3,6,Laptop & Accessory,5,Single,17,0,22.5,6,13,0.7,266.74
+CUST000145,0,16.0,Computer,Tier 2,60.3,UPI,Female,0.5,4,Mobile Phone,5,Single,7,0,21.3,11,8,41.6,171.12
+CUST000146,0,52.7,Computer,Tier 2,60.5,UPI,Female,4.5,4,Grocery,2,Single,21,0,15.8,14,1,2.0,271.75
+CUST000147,0,47.8,Computer,Tier 2,88.7,Credit Card,Male,4.7,2,Others,4,Single,5,0,19.2,7,7,14.8,104.98
+CUST000148,0,39.5,Computer,Tier 2,116.0,Cash on Delivery,Male,4.9,3,Grocery,1,Single,1,0,13.2,16,7,26.2,218.47
+CUST000149,0,51.0,Computer,Tier 2,83.0,Cash on Delivery,Male,4.3,1,Laptop & Accessory,1,Single,8,0,17.8,4,8,23.8,156.33
+CUST000150,0,52.0,Tablet,Tier 2,121.3,Cash on Delivery,Male,0.9,2,Others,5,Divorced,12,0,24.2,13,16,30.1,125.72
+CUST000151,1,42.5,Tablet,Tier 2,112.6,Cash on Delivery,Male,0.2,4,Fashion,5,Married,14,0,17.3,1,10,24.3,298.85
+CUST000152,0,50.2,Mobile Phone,Tier 2,76.3,UPI,Female,2.9,5,Others,2,Married,16,1,23.6,15,5,10.5,144.85
+CUST000153,0,41.8,Tablet,Tier 1,106.7,Debit Card,Male,4.6,4,Grocery,4,Divorced,10,0,19.9,16,10,9.2,285.04
+CUST000154,0,40.8,Tablet,Tier 3,83.4,UPI,Male,0.9,5,Mobile Phone,2,Divorced,15,0,13.9,2,9,41.7,192.98
+CUST000155,1,37.1,Computer,Tier 2,14.6,Cash on Delivery,Female,0.0,1,Fashion,4,Single,21,0,19.7,0,9,12.1,103.22
+CUST000156,0,45.2,Tablet,Tier 3,95.3,UPI,Male,4.0,5,Grocery,1,Single,15,0,18.6,3,8,12.9,264.82
+CUST000157,0,9.5,Computer,Tier 2,16.6,Cash on Delivery,Male,0.4,2,Fashion,2,Divorced,10,0,17.0,14,6,19.0,234.18
+CUST000158,1,52.9,Mobile Phone,Tier 2,77.5,E-wallet,Male,2.1,5,Others,5,Single,21,1,12.8,9,6,6.4,177.44
+CUST000159,0,52.3,Mobile Phone,Tier 1,90.7,Debit Card,Female,3.4,3,Laptop & Accessory,2,Married,7,1,17.3,4,1,23.3,163.35
+CUST000160,1,1.8,Tablet,Tier 1,13.1,E-wallet,Male,1.2,2,Grocery,2,Married,3,0,12.1,10,13,30.6,116.58
+CUST000161,0,49.5,Mobile Phone,Tier 3,33.2,Credit Card,Female,0.4,1,Mobile Phone,1,Single,2,0,12.5,6,16,36.2,311.82
+CUST000162,0,7.7,Tablet,Tier 1,116.7,UPI,Female,3.9,2,Others,5,Single,6,1,17.2,4,15,32.7,211.15
+CUST000163,0,20.1,Mobile Phone,Tier 1,80.2,Credit Card,Male,3.2,3,Grocery,5,Single,21,1,15.6,11,6,6.8,119.24
+CUST000164,0,44.6,Computer,Tier 3,35.0,UPI,Male,4.9,1,Mobile Phone,3,Married,9,0,24.9,14,14,21.0,295.45
+CUST000165,0,9.6,Computer,Tier 1,89.3,E-wallet,Male,1.7,4,Grocery,3,Single,10,0,16.6,11,4,1.8,162.74
+CUST000166,1,49.1,Computer,Tier 2,77.8,Cash on Delivery,Male,0.3,3,Others,3,Divorced,4,0,22.4,3,4,0.8,145.81
+CUST000167,0,49.9,Computer,Tier 3,66.2,Cash on Delivery,Female,3.7,1,Grocery,1,Single,3,0,19.0,11,14,20.2,163.21
+CUST000168,0,30.4,Tablet,Tier 3,124.1,UPI,Male,2.6,5,Fashion,2,Divorced,9,0,21.6,16,2,11.6,227.03
+CUST000169,0,0.4,Mobile Phone,Tier 2,88.4,Cash on Delivery,Female,1.1,2,Others,5,Single,22,0,14.9,15,13,31.4,116.66
+CUST000170,0,17.2,Tablet,Tier 1,50.8,E-wallet,Female,3.9,1,Grocery,5,Single,17,0,25.1,10,11,33.3,208.4
+CUST000171,0,37.0,Computer,Tier 3,102.6,Cash on Delivery,Female,1.0,2,Laptop & Accessory,2,Married,14,0,19.0,1,14,41.2,301.54
+CUST000172,0,58.9,Tablet,Tier 3,112.9,E-wallet,Female,1.3,5,Grocery,5,Divorced,10,1,23.5,15,4,35.0,142.34
+CUST000173,0,37.9,Mobile Phone,Tier 2,20.3,Credit Card,Female,0.5,1,Fashion,2,Divorced,13,1,16.5,0,5,2.2,174.52
+CUST000174,0,15.6,Tablet,Tier 2,29.5,E-wallet,Male,2.0,4,Mobile Phone,1,Divorced,12,0,12.5,16,13,17.1,189.13
+CUST000175,0,38.0,Mobile Phone,Tier 1,31.4,Debit Card,Female,2.1,3,Mobile Phone,1,Married,1,1,21.1,12,12,12.6,231.9
+CUST000176,0,32.4,Tablet,Tier 3,89.3,Debit Card,Female,2.6,1,Mobile Phone,1,Divorced,22,0,11.1,4,16,17.8,306.83
+CUST000177,0,46.8,Mobile Phone,Tier 1,78.6,Debit Card,Male,3.5,5,Laptop & Accessory,2,Married,19,1,18.1,5,5,7.4,188.77
+CUST000178,0,6.4,Mobile Phone,Tier 1,80.5,UPI,Male,4.5,1,Fashion,2,Single,19,0,13.9,0,16,4.5,115.56
+CUST000179,1,45.7,Computer,Tier 2,119.8,UPI,Female,0.7,2,Others,4,Single,6,0,20.4,9,5,24.0,178.29
+CUST000180,0,32.5,Mobile Phone,Tier 3,99.7,UPI,Female,0.3,6,Mobile Phone,5,Divorced,13,0,25.7,4,4,33.1,142.77
+CUST000181,0,57.8,Computer,Tier 3,20.6,E-wallet,Male,0.1,1,Fashion,5,Single,19,0,18.0,0,1,32.3,246.65
+CUST000182,0,20.5,Computer,Tier 3,47.4,UPI,Female,0.7,4,Grocery,4,Single,13,1,23.3,10,14,20.7,106.58
+CUST000183,1,38.0,Computer,Tier 2,58.1,Credit Card,Male,3.3,1,Laptop & Accessory,4,Divorced,22,0,18.6,6,10,24.0,165.68
+CUST000184,1,55.9,Tablet,Tier 2,53.3,Debit Card,Male,3.6,3,Fashion,1,Single,21,0,18.4,9,8,23.8,222.66
+CUST000185,0,6.2,Tablet,Tier 2,86.7,E-wallet,Female,3.9,1,Fashion,4,Divorced,4,0,25.0,14,3,31.8,162.4
+CUST000186,0,56.2,Tablet,Tier 2,113.8,Debit Card,Male,1.2,6,Others,2,Divorced,2,0,24.3,3,2,2.2,223.97
+CUST000187,1,41.3,Tablet,Tier 2,42.3,UPI,Female,1.5,2,Fashion,3,Single,15,0,22.8,15,9,32.7,125.81
+CUST000188,0,4.1,Mobile Phone,Tier 3,72.3,E-wallet,Female,2.4,1,Others,2,Single,12,0,15.4,14,7,26.8,312.13
+CUST000189,0,18.1,Mobile Phone,Tier 1,101.3,Cash on Delivery,Female,0.3,4,Laptop & Accessory,4,Single,7,1,19.2,14,9,9.1,165.45
+CUST000190,0,42.5,Tablet,Tier 3,55.8,Credit Card,Male,3.1,5,Laptop & Accessory,5,Single,20,1,14.4,11,13,2.3,307.68
+CUST000191,0,4.0,Mobile Phone,Tier 1,25.5,UPI,Female,4.9,1,Grocery,2,Single,18,1,17.7,7,2,5.0,173.31
+CUST000192,1,34.9,Mobile Phone,Tier 2,62.9,UPI,Male,1.8,1,Others,5,Married,13,0,18.3,7,16,24.1,275.91
+CUST000193,1,20.8,Computer,Tier 1,11.7,Credit Card,Female,3.8,3,Others,2,Single,17,0,23.5,5,16,34.9,155.39
+CUST000194,0,37.3,Computer,Tier 3,120.0,Credit Card,Female,2.5,4,Mobile Phone,5,Married,4,0,24.4,4,9,15.4,250.7
+CUST000195,0,2.7,Computer,Tier 3,14.1,Cash on Delivery,Male,0.6,6,Mobile Phone,2,Divorced,14,0,17.2,1,10,17.4,172.84
+CUST000196,0,52.3,Computer,Tier 1,58.5,UPI,Female,2.9,5,Grocery,5,Single,20,0,11.3,11,9,43.0,214.56
+CUST000197,1,58.4,Mobile Phone,Tier 2,69.6,UPI,Female,1.5,2,Laptop & Accessory,3,Single,13,1,23.9,3,11,9.8,251.61
+CUST000198,1,58.1,Tablet,Tier 2,125.2,Debit Card,Male,0.2,1,Mobile Phone,1,Single,3,0,13.6,12,9,4.8,232.5
+CUST000199,1,45.0,Mobile Phone,Tier 3,25.3,E-wallet,Male,3.2,6,Fashion,2,Divorced,18,1,20.3,16,10,15.8,229.66
+CUST000200,1,7.8,Mobile Phone,Tier 1,19.0,E-wallet,Male,4.3,5,Laptop & Accessory,3,Married,14,1,11.4,15,13,34.3,114.78
+CUST000201,0,45.5,Mobile Phone,Tier 2,6.1,Debit Card,Female,1.7,2,Fashion,1,Married,15,1,17.0,8,10,28.8,156.04
+CUST000202,0,1.5,Computer,Tier 2,24.0,E-wallet,Male,2.0,6,Others,2,Single,3,1,25.8,0,4,19.1,228.66
+CUST000203,0,1.3,Computer,Tier 3,30.3,Credit Card,Male,4.5,4,Laptop & Accessory,3,Single,1,0,12.5,14,10,44.4,104.12
+CUST000204,1,19.4,Computer,Tier 2,81.9,E-wallet,Female,4.1,4,Grocery,3,Single,17,0,17.4,11,3,33.8,156.39
+CUST000205,0,29.3,Tablet,Tier 1,31.8,E-wallet,Male,3.6,5,Others,3,Single,3,0,15.6,4,6,2.8,151.57
+CUST000206,0,46.2,Mobile Phone,Tier 3,7.5,Debit Card,Female,1.2,2,Others,4,Divorced,14,0,24.6,1,3,34.3,156.22
+CUST000207,0,41.0,Tablet,Tier 3,105.8,Cash on Delivery,Female,4.6,4,Fashion,5,Single,3,0,24.0,3,11,1.1,220.51
+CUST000208,0,26.8,Computer,Tier 1,49.6,E-wallet,Male,0.8,5,Others,1,Divorced,13,0,14.6,14,9,29.9,230.94
+CUST000209,0,16.4,Tablet,Tier 3,48.2,E-wallet,Female,3.1,4,Mobile Phone,5,Single,15,0,12.2,5,3,9.7,304.52
+CUST000210,0,59.8,Mobile Phone,Tier 2,41.9,Cash on Delivery,Male,0.1,4,Laptop & Accessory,5,Married,18,1,20.4,11,2,32.0,186.86
+CUST000211,0,25.6,Mobile Phone,Tier 2,124.0,Debit Card,Male,3.2,6,Mobile Phone,5,Married,14,1,16.0,3,8,14.2,308.48
+CUST000212,0,27.1,Computer,Tier 1,25.8,Cash on Delivery,Male,1.4,6,Fashion,3,Single,21,0,21.1,0,6,40.2,246.69
+CUST000213,0,9.8,Computer,Tier 2,114.6,Debit Card,Male,2.2,4,Fashion,5,Single,3,0,11.5,14,8,15.5,305.35
+CUST000214,0,47.7,Tablet,Tier 1,99.8,Credit Card,Female,1.7,3,Laptop & Accessory,4,Divorced,19,0,13.0,13,15,28.5,287.53
+CUST000215,1,41.6,Computer,Tier 1,14.3,Debit Card,Female,0.9,6,Others,2,Single,8,0,21.3,2,13,13.2,254.71
+CUST000216,0,13.2,Computer,Tier 2,125.4,Credit Card,Male,3.1,2,Grocery,3,Single,4,1,14.2,14,7,42.2,180.12
+CUST000217,0,4.9,Mobile Phone,Tier 1,38.1,Credit Card,Male,4.4,5,Fashion,1,Single,4,0,23.9,4,3,35.9,154.25
+CUST000218,1,40.8,Computer,Tier 2,17.0,Debit Card,Female,4.8,5,Laptop & Accessory,2,Married,19,0,11.9,2,8,11.2,150.04
+CUST000219,0,39.3,Computer,Tier 3,106.2,UPI,Male,1.0,2,Grocery,2,Divorced,11,1,14.2,6,10,43.6,314.24
+CUST000220,1,16.4,Mobile Phone,Tier 3,91.2,Debit Card,Female,3.6,2,Others,2,Married,1,1,26.0,5,1,16.4,315.68
+CUST000221,0,57.1,Mobile Phone,Tier 1,80.3,E-wallet,Male,3.3,2,Fashion,5,Divorced,8,0,17.5,0,1,30.0,263.09
+CUST000222,0,9.1,Tablet,Tier 2,24.0,E-wallet,Female,1.7,2,Laptop & Accessory,5,Married,15,0,21.5,6,13,34.2,298.85
+CUST000223,0,25.9,Computer,Tier 2,63.4,UPI,Female,0.1,1,Laptop & Accessory,3,Single,1,0,13.7,3,13,1.1,306.77
+CUST000224,0,56.6,Mobile Phone,Tier 3,100.2,Credit Card,Female,3.4,5,Laptop & Accessory,5,Married,7,0,20.1,11,10,44.1,215.1
+CUST000225,0,25.2,Tablet,Tier 3,42.0,UPI,Male,4.7,1,Fashion,5,Married,21,0,21.9,8,13,15.8,241.54
+CUST000226,0,38.3,Tablet,Tier 2,43.0,E-wallet,Male,3.2,4,Grocery,5,Divorced,20,0,15.7,3,8,8.7,194.22
+CUST000227,1,23.9,Computer,Tier 1,5.4,UPI,Male,2.2,4,Laptop & Accessory,3,Divorced,20,0,23.4,0,16,39.1,194.16
+CUST000228,0,16.5,Computer,Tier 3,26.3,Debit Card,Male,2.6,5,Others,3,Married,11,0,20.1,8,13,32.3,108.65
+CUST000229,1,59.0,Tablet,Tier 1,111.8,UPI,Male,1.0,4,Laptop & Accessory,4,Divorced,14,0,16.8,14,9,4.0,197.61
+CUST000230,0,24.6,Mobile Phone,Tier 1,58.9,Credit Card,Female,3.8,2,Grocery,4,Divorced,22,1,19.4,7,10,5.4,251.54
+CUST000231,1,53.6,Tablet,Tier 3,125.1,Debit Card,Female,3.7,1,Fashion,4,Divorced,16,0,19.7,14,6,32.9,194.95
+CUST000232,0,13.8,Computer,Tier 1,53.3,Cash on Delivery,Female,0.7,2,Laptop & Accessory,4,Divorced,14,0,13.5,14,5,3.4,296.29
+CUST000233,0,12.8,Mobile Phone,Tier 1,92.3,E-wallet,Female,4.4,4,Laptop & Accessory,2,Divorced,12,1,17.0,6,2,42.2,174.83
+CUST000234,0,1.9,Mobile Phone,Tier 2,39.4,E-wallet,Female,1.3,6,Others,2,Married,17,0,16.2,15,11,34.1,129.85
+CUST000235,0,39.1,Tablet,Tier 1,49.4,UPI,Female,4.9,1,Others,4,Divorced,14,1,17.0,1,9,15.4,282.6
+CUST000236,1,22.1,Computer,Tier 2,28.3,Debit Card,Female,1.9,2,Laptop & Accessory,4,Single,10,0,22.4,3,6,16.7,251.64
+CUST000237,0,51.9,Tablet,Tier 3,47.3,Cash on Delivery,Male,0.9,5,Laptop & Accessory,1,Married,14,0,18.2,15,8,23.3,154.41
+CUST000238,0,28.4,Tablet,Tier 3,71.8,Debit Card,Female,1.8,2,Others,2,Married,18,0,25.1,2,9,16.6,220.7
+CUST000239,0,58.1,Tablet,Tier 2,126.0,E-wallet,Male,2.2,6,Grocery,1,Married,22,0,15.4,1,9,36.0,190.42
+CUST000240,0,11.1,Mobile Phone,Tier 3,86.0,Debit Card,Female,0.3,4,Mobile Phone,1,Divorced,9,0,17.2,2,8,44.8,311.24
+CUST000241,1,52.1,Mobile Phone,Tier 1,29.3,Cash on Delivery,Female,2.9,1,Mobile Phone,5,Single,17,0,22.8,4,12,26.9,236.65
+CUST000242,1,46.6,Computer,Tier 1,10.5,UPI,Male,3.0,5,Laptop & Accessory,3,Divorced,6,0,19.2,1,10,20.5,135.64
+CUST000243,1,46.3,Computer,Tier 1,20.4,Credit Card,Female,3.7,1,Others,2,Married,8,0,19.2,1,8,10.2,212.98
+CUST000244,0,50.7,Tablet,Tier 3,73.6,Debit Card,Male,0.1,5,Fashion,4,Married,13,0,11.8,1,3,30.1,294.08
+CUST000245,0,45.7,Tablet,Tier 1,98.3,Credit Card,Female,2.7,1,Fashion,4,Married,18,0,17.0,13,13,31.5,251.09
+CUST000246,1,37.6,Tablet,Tier 3,119.7,E-wallet,Male,0.3,4,Mobile Phone,3,Married,5,0,15.1,14,3,31.5,289.55
+CUST000247,0,7.9,Computer,Tier 1,6.9,UPI,Female,3.5,5,Grocery,2,Divorced,6,0,26.0,11,2,1.2,156.34
+CUST000248,1,2.0,Mobile Phone,Tier 2,68.8,UPI,Male,0.3,3,Mobile Phone,4,Single,21,0,15.6,10,16,41.4,299.88
+CUST000249,1,55.3,Mobile Phone,Tier 3,62.4,Debit Card,Male,4.6,1,Laptop & Accessory,4,Single,19,0,24.3,10,1,15.6,270.01
+CUST000250,1,37.0,Tablet,Tier 3,85.0,UPI,Female,3.5,1,Grocery,5,Married,4,0,21.1,6,16,34.2,264.01
+CUST000251,0,47.8,Tablet,Tier 1,73.3,Debit Card,Female,2.5,2,Fashion,1,Single,7,0,16.1,11,4,35.0,177.97
+CUST000252,0,28.9,Tablet,Tier 3,88.8,Debit Card,Male,2.2,5,Others,4,Married,4,1,19.2,15,2,29.9,299.72
+CUST000253,1,7.0,Tablet,Tier 3,85.3,Credit Card,Female,0.7,6,Others,2,Married,11,0,23.6,4,14,18.2,243.55
+CUST000254,0,7.5,Computer,Tier 2,19.3,UPI,Male,1.5,3,Laptop & Accessory,3,Single,12,0,24.3,1,14,28.0,291.66
+CUST000255,0,41.1,Mobile Phone,Tier 2,102.6,Debit Card,Female,4.3,4,Mobile Phone,5,Married,14,0,13.4,15,2,1.8,181.22
+CUST000256,0,25.8,Tablet,Tier 1,20.0,Credit Card,Male,4.5,2,Laptop & Accessory,2,Single,13,0,16.1,14,13,35.0,132.77
+CUST000257,1,12.0,Computer,Tier 2,90.2,Cash on Delivery,Female,0.0,3,Others,5,Married,10,0,16.0,10,11,4.6,174.78
+CUST000258,0,29.5,Tablet,Tier 1,55.8,Credit Card,Male,3.0,5,Fashion,1,Single,18,0,11.6,5,11,18.3,202.43
+CUST000259,0,3.9,Tablet,Tier 1,67.7,Credit Card,Female,3.6,3,Others,4,Married,16,0,20.0,12,5,4.8,220.02
+CUST000260,0,34.9,Mobile Phone,Tier 1,115.2,Debit Card,Male,3.1,1,Grocery,2,Single,5,0,23.8,9,4,38.5,214.93
+CUST000261,0,16.1,Tablet,Tier 3,113.6,E-wallet,Male,0.4,1,Others,3,Married,8,0,16.7,4,1,25.3,222.86
+CUST000262,1,47.9,Mobile Phone,Tier 2,104.8,E-wallet,Female,1.1,2,Others,1,Married,14,0,22.1,6,15,31.8,289.38
+CUST000263,0,18.6,Mobile Phone,Tier 1,67.2,E-wallet,Female,1.3,5,Grocery,1,Married,5,0,20.4,10,15,31.4,138.27
+CUST000264,0,27.3,Mobile Phone,Tier 2,94.8,Credit Card,Male,4.2,5,Mobile Phone,5,Single,8,0,16.6,13,9,38.7,171.11
+CUST000265,1,0.7,Computer,Tier 1,67.6,Debit Card,Male,2.3,3,Others,1,Divorced,6,0,13.1,15,14,6.1,299.94
+CUST000266,1,4.3,Computer,Tier 2,111.1,UPI,Male,2.4,2,Laptop & Accessory,2,Married,16,0,21.6,3,4,30.3,226.1
+CUST000267,0,23.5,Mobile Phone,Tier 2,54.1,Credit Card,Male,4.7,5,Others,5,Married,4,0,23.8,0,5,26.5,231.26
+CUST000268,1,28.8,Tablet,Tier 1,123.4,Credit Card,Female,3.2,6,Laptop & Accessory,1,Single,12,0,21.3,14,7,1.4,207.56
+CUST000269,0,36.0,Mobile Phone,Tier 3,118.7,Debit Card,Male,4.5,6,Grocery,3,Married,11,0,11.3,13,2,9.3,223.52
+CUST000270,0,17.5,Tablet,Tier 2,95.5,Cash on Delivery,Male,2.3,1,Others,2,Married,3,1,14.2,4,8,12.3,144.57
+CUST000271,1,41.7,Mobile Phone,Tier 3,39.1,Credit Card,Male,0.7,3,Grocery,3,Married,12,0,12.0,3,11,3.3,223.05
+CUST000272,1,51.6,Tablet,Tier 3,21.1,Cash on Delivery,Female,4.6,4,Grocery,3,Married,5,0,19.6,12,16,16.3,324.36
+CUST000273,1,46.8,Computer,Tier 1,109.3,Cash on Delivery,Male,2.3,1,Mobile Phone,5,Divorced,6,1,22.3,11,2,1.3,227.36
+CUST000274,1,2.4,Tablet,Tier 1,25.2,E-wallet,Female,0.9,2,Others,4,Divorced,19,0,12.7,14,11,25.4,109.99
+CUST000275,0,28.8,Mobile Phone,Tier 1,109.2,Debit Card,Female,1.5,5,Laptop & Accessory,5,Married,18,0,23.6,8,10,9.7,279.2
+CUST000276,0,6.3,Computer,Tier 2,64.9,Cash on Delivery,Female,0.3,1,Laptop & Accessory,2,Married,16,1,19.3,3,5,13.2,189.21
+CUST000277,1,14.5,Tablet,Tier 1,54.6,Debit Card,Female,2.3,4,Others,2,Married,11,0,21.3,4,13,41.9,134.58
+CUST000278,0,59.2,Tablet,Tier 1,115.2,E-wallet,Female,4.3,4,Mobile Phone,5,Divorced,5,0,25.6,8,12,23.1,294.07
+CUST000279,1,8.5,Tablet,Tier 2,78.7,Debit Card,Female,4.7,6,Mobile Phone,4,Divorced,9,1,12.3,12,2,12.4,144.54
+CUST000280,1,29.9,Tablet,Tier 2,75.3,Credit Card,Female,4.7,2,Mobile Phone,5,Single,3,1,24.5,9,2,27.5,307.17
+CUST000281,1,37.1,Tablet,Tier 1,73.2,Cash on Delivery,Male,0.6,1,Laptop & Accessory,2,Single,8,0,12.9,15,4,9.3,199.4
+CUST000282,0,42.1,Computer,Tier 1,50.3,Debit Card,Male,1.9,3,Grocery,4,Married,6,0,16.9,12,4,3.4,267.13
+CUST000283,0,33.6,Computer,Tier 1,100.8,UPI,Female,0.1,1,Mobile Phone,2,Married,4,0,23.8,3,16,1.0,223.07
+CUST000284,0,0.6,Computer,Tier 1,35.8,Debit Card,Male,4.3,6,Laptop & Accessory,4,Divorced,12,0,24.6,12,13,43.8,157.74
+CUST000285,0,19.6,Computer,Tier 3,119.5,Cash on Delivery,Male,1.8,4,Laptop & Accessory,4,Married,12,0,18.6,7,8,33.3,251.0
+CUST000286,0,31.1,Mobile Phone,Tier 3,114.1,E-wallet,Female,3.2,2,Grocery,5,Married,21,0,19.9,12,13,36.8,315.53
+CUST000287,0,5.3,Computer,Tier 1,46.2,E-wallet,Male,3.6,2,Others,5,Divorced,16,0,21.6,14,16,45.1,273.17
+CUST000288,0,21.0,Tablet,Tier 3,94.0,Cash on Delivery,Female,2.1,3,Others,5,Divorced,10,0,23.5,12,6,42.9,235.9
+CUST000289,0,2.0,Tablet,Tier 2,74.9,Credit Card,Male,1.5,2,Mobile Phone,4,Divorced,22,0,12.8,4,10,33.9,322.89
+CUST000290,0,4.7,Computer,Tier 3,46.2,Credit Card,Female,4.8,6,Mobile Phone,4,Divorced,14,0,23.2,5,8,31.9,159.7
+CUST000291,0,23.8,Tablet,Tier 3,125.6,E-wallet,Female,4.8,6,Grocery,2,Single,13,1,18.2,4,16,15.5,114.03
+CUST000292,0,8.0,Computer,Tier 1,8.1,E-wallet,Male,1.4,6,Mobile Phone,3,Divorced,9,1,17.8,12,13,4.8,107.23
+CUST000293,1,34.1,Tablet,Tier 3,35.8,Cash on Delivery,Male,2.4,2,Grocery,5,Divorced,7,0,17.4,4,7,26.4,259.9
+CUST000294,0,41.4,Mobile Phone,Tier 3,68.4,Credit Card,Female,4.9,2,Laptop & Accessory,2,Married,12,1,18.6,12,13,26.5,286.8
+CUST000295,0,48.0,Mobile Phone,Tier 3,68.7,E-wallet,Female,0.0,6,Mobile Phone,2,Married,5,1,25.2,7,10,43.8,242.9
+CUST000296,0,12.0,Computer,Tier 3,76.8,Credit Card,Female,2.1,2,Laptop & Accessory,1,Married,18,0,19.2,8,4,20.4,303.63
+CUST000297,1,10.0,Computer,Tier 2,96.7,E-wallet,Male,0.5,2,Fashion,5,Single,4,0,25.3,14,2,31.8,257.04
+CUST000298,0,6.3,Computer,Tier 1,81.1,Debit Card,Male,2.5,4,Grocery,2,Divorced,2,0,13.7,9,15,26.4,183.46
+CUST000299,0,38.2,Tablet,Tier 1,78.2,UPI,Male,0.1,1,Fashion,1,Divorced,3,0,21.9,10,9,8.1,140.78
+CUST000300,0,42.4,Computer,Tier 2,11.5,Debit Card,Male,2.0,5,Mobile Phone,5,Single,12,0,23.2,4,2,27.2,308.05
+CUST000301,0,1.9,Mobile Phone,Tier 3,50.9,E-wallet,Female,1.1,2,Laptop & Accessory,4,Divorced,3,0,21.2,8,1,24.8,123.31
+CUST000302,0,56.2,Tablet,Tier 2,33.3,UPI,Female,2.7,5,Mobile Phone,1,Married,4,0,20.1,10,8,22.7,222.17
+CUST000303,0,3.1,Computer,Tier 3,37.4,UPI,Female,5.0,5,Fashion,4,Single,6,0,19.5,1,10,23.6,170.65
+CUST000304,0,32.5,Tablet,Tier 2,72.6,E-wallet,Female,4.0,4,Mobile Phone,3,Divorced,12,0,23.9,5,15,7.5,161.07
+CUST000305,1,42.5,Tablet,Tier 1,29.3,E-wallet,Male,4.2,2,Others,3,Single,19,1,23.3,0,9,21.3,245.31
+CUST000306,1,52.3,Computer,Tier 1,40.9,Credit Card,Female,3.2,6,Fashion,3,Single,10,0,12.8,2,1,27.9,152.03
+CUST000307,0,42.8,Tablet,Tier 1,33.9,E-wallet,Female,0.2,5,Mobile Phone,3,Divorced,1,1,23.7,2,7,22.5,306.18
+CUST000308,0,48.1,Mobile Phone,Tier 3,120.7,Cash on Delivery,Male,1.0,2,Laptop & Accessory,2,Married,17,0,17.2,13,2,22.5,191.36
+CUST000309,1,20.4,Mobile Phone,Tier 3,120.2,E-wallet,Male,4.6,3,Mobile Phone,3,Divorced,16,1,14.8,4,6,3.6,252.41
+CUST000310,0,48.9,Tablet,Tier 2,79.4,Cash on Delivery,Female,1.8,6,Laptop & Accessory,2,Divorced,9,0,24.0,16,13,8.8,263.75
+CUST000311,0,4.8,Computer,Tier 2,117.8,E-wallet,Male,0.5,3,Others,2,Married,21,0,17.5,14,11,14.8,253.66
+CUST000312,0,53.7,Tablet,Tier 1,100.9,Credit Card,Female,3.5,3,Mobile Phone,5,Divorced,9,0,23.1,5,5,19.3,303.27
+CUST000313,0,32.9,Mobile Phone,Tier 3,77.0,Cash on Delivery,Male,1.5,5,Others,2,Divorced,9,0,15.0,13,1,27.3,152.0
+CUST000314,1,49.0,Tablet,Tier 2,5.8,Debit Card,Male,1.3,3,Fashion,2,Divorced,12,1,11.1,13,16,39.7,119.36
+CUST000315,1,27.1,Tablet,Tier 3,99.2,Cash on Delivery,Female,5.0,4,Laptop & Accessory,3,Single,9,0,18.4,16,2,7.3,112.48
+CUST000316,0,38.6,Mobile Phone,Tier 3,90.7,Credit Card,Male,4.3,4,Fashion,2,Single,15,1,12.5,7,2,0.7,297.51
+CUST000317,0,31.6,Tablet,Tier 1,80.1,Cash on Delivery,Female,2.0,5,Laptop & Accessory,4,Single,2,0,22.3,7,16,20.7,318.99
+CUST000318,0,43.9,Tablet,Tier 1,97.8,E-wallet,Male,4.9,2,Others,3,Divorced,11,0,15.1,8,10,19.9,168.07
+CUST000319,0,4.9,Computer,Tier 3,67.6,E-wallet,Male,3.3,1,Grocery,1,Married,11,1,17.7,10,10,25.4,256.04
+CUST000320,0,3.6,Computer,Tier 3,90.9,Credit Card,Male,3.7,2,Mobile Phone,3,Single,8,0,12.3,12,6,38.3,102.01
+CUST000321,0,14.8,Mobile Phone,Tier 3,119.1,UPI,Male,0.2,2,Others,2,Married,6,0,15.3,12,11,36.9,142.44
+CUST000322,1,9.6,Mobile Phone,Tier 3,50.8,E-wallet,Male,0.6,2,Laptop & Accessory,4,Divorced,21,1,22.7,4,12,4.6,255.09
+CUST000323,0,52.3,Mobile Phone,Tier 1,91.4,Debit Card,Female,3.2,2,Laptop & Accessory,3,Single,20,1,13.3,15,1,43.0,114.82
+CUST000324,0,13.2,Computer,Tier 2,63.0,Credit Card,Male,4.5,6,Laptop & Accessory,4,Divorced,7,1,20.7,8,11,5.1,205.41
+CUST000325,1,58.6,Mobile Phone,Tier 1,87.3,Cash on Delivery,Female,3.1,1,Laptop & Accessory,1,Married,3,1,24.8,2,13,29.2,249.08
+CUST000326,1,20.2,Mobile Phone,Tier 2,98.1,Cash on Delivery,Male,0.7,6,Mobile Phone,1,Single,8,0,21.2,4,4,30.9,272.34
+CUST000327,0,10.9,Mobile Phone,Tier 3,10.5,Debit Card,Female,0.6,3,Fashion,5,Single,18,1,23.2,7,12,31.3,202.11
+CUST000328,0,47.4,Computer,Tier 2,83.9,E-wallet,Male,4.2,2,Grocery,5,Single,17,0,12.6,13,16,12.2,241.81
+CUST000329,0,39.5,Tablet,Tier 1,32.7,Credit Card,Female,0.7,4,Mobile Phone,3,Single,11,1,14.8,2,10,15.2,221.4
+CUST000330,0,29.9,Mobile Phone,Tier 1,86.7,Debit Card,Female,2.6,5,Laptop & Accessory,5,Married,2,0,24.4,12,11,25.2,111.77
+CUST000331,0,33.3,Tablet,Tier 3,62.1,E-wallet,Male,0.2,5,Mobile Phone,4,Single,21,0,21.7,10,16,9.2,267.13
+CUST000332,1,43.2,Mobile Phone,Tier 1,99.4,Credit Card,Male,0.4,6,Others,5,Divorced,19,0,20.6,7,5,0.9,138.78
+CUST000333,0,13.7,Tablet,Tier 3,20.1,Cash on Delivery,Male,3.4,6,Laptop & Accessory,4,Single,7,0,21.0,9,2,25.9,107.16
+CUST000334,0,59.8,Computer,Tier 1,81.4,Credit Card,Female,3.4,4,Grocery,5,Married,18,0,17.2,6,2,21.4,201.51
+CUST000335,0,58.5,Computer,Tier 1,39.0,UPI,Female,1.7,2,Laptop & Accessory,5,Single,8,1,11.7,15,15,30.2,294.77
+CUST000336,0,39.0,Mobile Phone,Tier 3,109.1,Credit Card,Male,1.1,1,Grocery,5,Married,14,1,22.8,5,7,6.7,133.94
+CUST000337,1,12.0,Tablet,Tier 2,118.3,UPI,Male,4.1,3,Grocery,2,Married,7,0,21.2,15,7,38.7,102.89
+CUST000338,1,40.8,Computer,Tier 1,126.6,Credit Card,Female,1.1,5,Fashion,2,Divorced,21,1,18.1,15,6,6.7,124.75
+CUST000339,0,4.3,Mobile Phone,Tier 2,102.1,UPI,Female,2.7,3,Fashion,5,Single,4,0,24.5,0,16,41.0,181.82
+CUST000340,0,1.8,Mobile Phone,Tier 1,97.0,Cash on Delivery,Male,4.8,1,Mobile Phone,4,Single,17,0,16.0,2,1,20.7,230.54
+CUST000341,0,15.5,Computer,Tier 1,31.3,E-wallet,Female,0.7,6,Mobile Phone,3,Single,5,0,15.4,5,12,25.3,143.43
+CUST000342,0,27.8,Computer,Tier 1,46.0,UPI,Male,4.7,5,Grocery,1,Divorced,12,1,24.1,3,13,41.2,280.44
+CUST000343,0,52.1,Mobile Phone,Tier 1,61.8,UPI,Male,0.9,3,Laptop & Accessory,2,Divorced,9,0,23.0,3,12,13.8,269.49
+CUST000344,0,43.6,Tablet,Tier 2,99.4,Cash on Delivery,Male,2.8,6,Others,5,Married,20,0,18.7,3,3,8.4,256.57
+CUST000345,0,44.6,Tablet,Tier 2,116.6,UPI,Female,1.9,1,Others,1,Married,13,0,13.0,9,9,20.5,209.68
+CUST000346,0,25.5,Tablet,Tier 1,28.1,Debit Card,Female,4.8,3,Laptop & Accessory,2,Married,18,0,14.2,8,10,11.2,182.17
+CUST000347,0,20.8,Mobile Phone,Tier 1,117.5,Cash on Delivery,Female,1.4,2,Laptop & Accessory,3,Divorced,20,0,20.8,7,1,24.3,184.51
+CUST000348,0,22.3,Computer,Tier 2,89.9,Debit Card,Female,2.0,6,Fashion,4,Divorced,9,0,16.8,16,2,12.7,213.19
+CUST000349,0,59.3,Mobile Phone,Tier 3,79.5,Cash on Delivery,Male,4.9,1,Others,5,Divorced,4,0,23.5,16,8,39.8,117.4
+CUST000350,0,2.4,Computer,Tier 3,29.4,UPI,Female,2.7,3,Grocery,3,Married,21,0,25.2,0,7,27.9,253.52
+CUST000351,0,52.0,Tablet,Tier 2,11.8,Debit Card,Male,2.5,2,Mobile Phone,2,Divorced,8,1,23.1,13,9,0.0,179.09
+CUST000352,1,34.7,Tablet,Tier 1,74.4,UPI,Male,1.3,2,Fashion,5,Married,1,0,16.7,10,10,37.1,150.57
+CUST000353,0,26.3,Computer,Tier 1,84.5,Cash on Delivery,Male,3.5,1,Others,1,Married,17,0,22.8,2,12,15.2,162.62
+CUST000354,0,43.5,Computer,Tier 3,30.7,UPI,Female,0.1,4,Laptop & Accessory,4,Single,9,0,16.3,7,15,14.7,140.57
+CUST000355,0,29.2,Mobile Phone,Tier 3,72.9,Debit Card,Male,0.2,5,Others,2,Single,20,1,13.5,9,15,17.6,302.85
+CUST000356,0,52.4,Tablet,Tier 2,109.5,Debit Card,Male,3.0,1,Grocery,4,Single,13,0,11.5,16,15,29.0,138.03
+CUST000357,0,54.0,Mobile Phone,Tier 3,106.9,UPI,Female,1.7,2,Fashion,5,Married,2,1,16.8,7,12,20.3,298.66
+CUST000358,0,25.3,Mobile Phone,Tier 2,118.1,Credit Card,Male,4.8,2,Laptop & Accessory,3,Single,13,0,24.6,0,4,28.9,228.75
+CUST000359,1,16.6,Mobile Phone,Tier 3,49.6,Cash on Delivery,Female,4.5,1,Grocery,4,Single,9,1,14.6,6,4,6.8,295.18
+CUST000360,0,35.5,Tablet,Tier 3,43.8,Cash on Delivery,Female,3.6,4,Mobile Phone,1,Single,20,0,14.1,8,7,44.6,206.66
+CUST000361,0,54.7,Mobile Phone,Tier 3,96.4,UPI,Female,4.1,5,Fashion,2,Divorced,6,0,25.5,11,1,33.6,308.72
+CUST000362,0,12.6,Mobile Phone,Tier 1,57.6,Credit Card,Male,3.3,3,Grocery,1,Married,1,0,11.4,8,10,11.5,147.59
+CUST000363,0,37.4,Mobile Phone,Tier 1,15.7,Debit Card,Female,0.6,1,Grocery,4,Single,5,0,22.8,2,12,33.3,224.81
+CUST000364,0,37.9,Mobile Phone,Tier 1,39.5,E-wallet,Female,3.8,5,Laptop & Accessory,3,Divorced,3,1,15.8,3,9,26.5,128.31
+CUST000365,1,44.0,Mobile Phone,Tier 3,56.1,E-wallet,Female,1.1,5,Mobile Phone,3,Divorced,4,1,11.6,9,2,5.0,200.62
+CUST000366,0,7.9,Mobile Phone,Tier 2,40.7,UPI,Female,1.6,6,Grocery,1,Divorced,1,0,24.8,3,15,8.2,228.23
+CUST000367,1,42.9,Tablet,Tier 2,45.5,Credit Card,Male,4.1,2,Fashion,5,Single,14,0,13.1,8,1,1.9,236.28
+CUST000368,1,54.5,Mobile Phone,Tier 2,40.8,Credit Card,Female,2.7,3,Grocery,5,Divorced,9,0,19.3,0,7,37.2,182.24
+CUST000369,0,10.8,Computer,Tier 2,10.1,Cash on Delivery,Male,4.3,1,Others,3,Married,4,0,15.1,4,6,25.4,117.18
+CUST000370,0,14.3,Mobile Phone,Tier 1,82.7,Debit Card,Female,1.1,2,Fashion,1,Divorced,18,0,12.0,8,12,14.6,247.45
+CUST000371,0,58.3,Mobile Phone,Tier 1,77.9,Credit Card,Male,3.0,6,Fashion,1,Divorced,14,1,11.7,4,3,5.8,209.9
+CUST000372,0,10.9,Tablet,Tier 3,84.7,E-wallet,Female,0.4,6,Grocery,1,Divorced,4,1,12.7,5,1,22.3,130.8
+CUST000373,0,51.3,Tablet,Tier 3,28.5,Debit Card,Male,3.2,2,Laptop & Accessory,4,Divorced,10,0,12.1,7,12,24.2,310.57
+CUST000374,0,29.5,Computer,Tier 2,41.1,Debit Card,Female,3.8,4,Fashion,5,Married,3,1,22.4,9,5,32.3,315.03
+CUST000375,0,14.8,Computer,Tier 1,80.6,UPI,Male,2.9,5,Others,5,Single,7,0,18.3,10,10,44.6,292.74
+CUST000376,0,52.2,Tablet,Tier 2,78.2,Credit Card,Male,1.3,1,Laptop & Accessory,4,Married,10,0,16.1,12,14,20.0,289.87
+CUST000377,1,26.7,Tablet,Tier 3,66.8,UPI,Male,0.2,1,Laptop & Accessory,2,Married,13,0,17.3,3,4,18.7,122.2
+CUST000378,0,30.9,Mobile Phone,Tier 3,47.8,Credit Card,Female,0.6,1,Laptop & Accessory,4,Single,4,0,24.9,10,5,17.0,323.52
+CUST000379,1,21.6,Tablet,Tier 2,116.4,Cash on Delivery,Male,3.1,2,Fashion,1,Divorced,18,0,24.7,11,1,38.0,190.09
+CUST000380,0,35.6,Computer,Tier 3,46.5,UPI,Male,4.7,4,Laptop & Accessory,4,Single,11,0,21.7,4,1,7.2,136.7
+CUST000381,0,9.8,Mobile Phone,Tier 2,60.6,UPI,Male,1.0,3,Grocery,1,Single,4,0,24.3,9,5,15.8,282.72
+CUST000382,0,23.5,Computer,Tier 1,87.7,E-wallet,Male,3.7,6,Laptop & Accessory,3,Married,14,0,15.8,6,6,33.3,150.79
+CUST000383,0,58.2,Mobile Phone,Tier 2,71.2,UPI,Female,4.3,2,Others,1,Single,18,1,16.7,8,5,0.7,218.39
+CUST000384,1,15.5,Tablet,Tier 1,47.3,Credit Card,Male,2.6,3,Mobile Phone,5,Divorced,8,0,20.2,8,2,13.3,128.8
+CUST000385,1,39.4,Computer,Tier 1,58.1,E-wallet,Male,3.3,6,Others,4,Married,10,1,20.4,9,9,29.5,206.8
+CUST000386,1,19.5,Mobile Phone,Tier 3,101.9,UPI,Male,4.1,6,Fashion,1,Divorced,5,1,18.2,9,5,8.6,225.58
+CUST000387,0,46.4,Mobile Phone,Tier 3,38.9,UPI,Female,1.3,4,Laptop & Accessory,2,Married,7,0,17.0,1,11,13.9,200.33
+CUST000388,0,7.9,Tablet,Tier 3,22.4,Cash on Delivery,Male,1.5,5,Laptop & Accessory,3,Divorced,12,0,25.8,3,11,22.4,115.63
+CUST000389,1,58.2,Tablet,Tier 2,43.2,UPI,Male,0.0,1,Grocery,2,Single,3,1,23.3,7,5,19.4,209.11
+CUST000390,1,27.2,Tablet,Tier 2,108.6,Debit Card,Male,4.8,3,Laptop & Accessory,2,Single,4,0,17.5,13,10,4.9,205.51
+CUST000391,1,14.2,Computer,Tier 3,15.9,E-wallet,Male,4.6,2,Others,2,Single,10,1,21.9,16,9,43.2,158.86
+CUST000392,0,4.4,Mobile Phone,Tier 2,126.0,Debit Card,Female,3.8,3,Fashion,3,Divorced,4,0,15.0,12,3,2.0,307.36
+CUST000393,0,10.2,Tablet,Tier 3,71.0,E-wallet,Male,0.4,5,Mobile Phone,3,Married,15,0,12.5,12,5,34.5,194.0
+CUST000394,1,31.2,Computer,Tier 2,125.2,Cash on Delivery,Male,2.2,1,Laptop & Accessory,3,Married,10,1,16.3,7,15,3.3,294.43
+CUST000395,0,20.2,Computer,Tier 1,119.6,UPI,Female,0.5,3,Mobile Phone,3,Married,21,1,17.0,11,13,21.5,124.67
+CUST000396,1,49.7,Computer,Tier 1,60.2,UPI,Female,0.1,5,Laptop & Accessory,2,Single,22,1,11.2,0,12,8.1,171.75
+CUST000397,1,25.9,Tablet,Tier 3,29.2,UPI,Female,3.1,2,Fashion,5,Divorced,16,0,23.2,2,5,6.5,139.67
+CUST000398,0,14.9,Tablet,Tier 2,25.1,E-wallet,Male,4.8,4,Others,5,Married,15,1,16.4,11,2,5.8,191.89
+CUST000399,1,37.0,Mobile Phone,Tier 2,34.3,UPI,Female,4.5,6,Fashion,3,Divorced,19,1,19.7,12,11,20.8,125.12
+CUST000400,1,42.4,Mobile Phone,Tier 1,91.6,Debit Card,Male,3.5,2,Mobile Phone,4,Married,20,1,12.1,9,4,23.7,199.23
+CUST000401,0,10.0,Tablet,Tier 1,38.3,UPI,Female,0.5,1,Laptop & Accessory,1,Single,19,0,13.6,14,11,6.1,179.62
+CUST000402,1,10.1,Computer,Tier 3,46.7,Cash on Delivery,Male,1.4,6,Mobile Phone,4,Divorced,18,0,24.3,1,11,45.1,150.25
+CUST000403,0,2.2,Computer,Tier 1,59.8,Debit Card,Female,1.6,2,Others,4,Married,12,1,20.1,2,2,11.9,244.49
+CUST000404,1,44.2,Computer,Tier 3,116.4,UPI,Male,3.8,2,Fashion,4,Married,16,0,25.3,13,5,21.1,313.96
+CUST000405,0,39.8,Mobile Phone,Tier 1,28.1,UPI,Female,4.0,2,Mobile Phone,5,Married,1,0,26.0,6,10,9.9,146.6
+CUST000406,1,28.5,Computer,Tier 1,5.6,Credit Card,Male,1.9,2,Mobile Phone,1,Married,16,0,16.6,7,13,22.7,260.15
+CUST000407,0,50.7,Mobile Phone,Tier 2,12.3,E-wallet,Male,2.1,6,Others,4,Single,2,0,15.5,10,12,34.8,267.04
+CUST000408,0,48.3,Mobile Phone,Tier 1,115.4,Debit Card,Male,0.2,1,Laptop & Accessory,3,Married,15,0,23.9,5,2,24.0,212.08
+CUST000409,1,35.1,Computer,Tier 1,84.0,Credit Card,Male,1.4,5,Mobile Phone,5,Married,7,0,26.0,10,10,13.1,301.98
+CUST000410,0,52.1,Computer,Tier 3,38.3,Cash on Delivery,Male,2.3,3,Others,3,Single,1,1,20.4,16,15,11.4,317.44
+CUST000411,0,12.4,Tablet,Tier 1,26.6,E-wallet,Male,0.6,4,Laptop & Accessory,3,Married,5,0,22.9,9,14,34.9,181.51
+CUST000412,1,6.7,Tablet,Tier 3,40.9,Debit Card,Male,2.3,3,Laptop & Accessory,4,Divorced,10,0,22.7,16,9,5.4,246.48
+CUST000413,1,16.2,Computer,Tier 1,19.0,UPI,Male,4.3,3,Fashion,3,Divorced,22,0,16.3,1,10,17.0,249.0
+CUST000414,0,3.4,Mobile Phone,Tier 1,119.9,Debit Card,Female,2.9,4,Others,1,Married,21,0,19.6,5,6,7.0,190.82
+CUST000415,0,31.9,Mobile Phone,Tier 3,100.7,UPI,Male,0.4,6,Laptop & Accessory,3,Single,4,0,23.5,4,8,11.9,171.28
+CUST000416,0,56.2,Mobile Phone,Tier 2,61.4,E-wallet,Male,1.0,1,Fashion,4,Single,14,0,21.3,3,9,7.0,310.09
+CUST000417,0,2.4,Mobile Phone,Tier 3,110.5,UPI,Female,2.4,4,Grocery,3,Single,13,0,11.3,1,15,40.8,277.75
+CUST000418,0,7.3,Mobile Phone,Tier 3,35.4,Cash on Delivery,Male,1.8,1,Others,5,Married,1,1,16.1,11,13,33.7,125.75
+CUST000419,0,27.1,Tablet,Tier 3,92.5,UPI,Female,1.8,6,Grocery,5,Married,16,0,13.2,2,8,25.8,126.97
+CUST000420,1,56.0,Computer,Tier 2,109.4,Cash on Delivery,Male,2.6,3,Laptop & Accessory,5,Divorced,9,0,14.5,5,5,10.3,307.57
+CUST000421,1,19.0,Tablet,Tier 1,48.5,E-wallet,Female,2.9,1,Others,2,Single,22,0,24.6,13,5,23.5,118.32
+CUST000422,1,30.4,Mobile Phone,Tier 3,97.4,E-wallet,Female,4.0,6,Fashion,5,Married,16,0,11.6,7,6,24.0,254.89
+CUST000423,0,2.5,Mobile Phone,Tier 3,41.0,Debit Card,Male,1.7,6,Laptop & Accessory,5,Married,19,1,14.3,13,14,27.2,151.02
+CUST000424,0,8.9,Mobile Phone,Tier 2,41.5,Cash on Delivery,Female,4.0,5,Others,2,Married,15,1,15.6,2,1,2.8,107.92
+CUST000425,0,59.2,Mobile Phone,Tier 3,18.1,Cash on Delivery,Male,1.7,4,Others,5,Single,14,0,20.3,15,13,44.8,113.42
+CUST000426,0,57.9,Computer,Tier 1,58.7,Credit Card,Male,0.3,5,Grocery,4,Single,20,0,19.0,14,11,21.4,184.04
+CUST000427,0,0.3,Mobile Phone,Tier 2,94.0,Credit Card,Male,2.8,3,Laptop & Accessory,5,Divorced,10,0,14.3,6,8,42.6,117.46
+CUST000428,1,57.1,Computer,Tier 1,119.7,Credit Card,Male,2.9,4,Fashion,5,Single,21,0,13.5,14,2,0.5,234.24
+CUST000429,0,38.3,Mobile Phone,Tier 1,78.7,UPI,Female,4.7,3,Fashion,2,Married,12,1,14.6,12,6,11.4,245.63
+CUST000430,0,52.1,Computer,Tier 2,110.3,Credit Card,Male,3.6,5,Laptop & Accessory,4,Divorced,1,0,18.5,5,14,4.8,184.03
+CUST000431,0,27.3,Tablet,Tier 3,105.3,Cash on Delivery,Female,4.6,6,Laptop & Accessory,3,Single,21,0,15.1,14,14,35.4,267.15
+CUST000432,1,30.9,Mobile Phone,Tier 1,26.1,UPI,Female,4.5,3,Mobile Phone,1,Single,17,0,25.2,16,9,14.7,210.26
+CUST000433,0,29.3,Computer,Tier 1,64.3,E-wallet,Male,3.0,4,Grocery,4,Single,9,0,18.0,3,13,38.7,196.8
+CUST000434,0,40.0,Tablet,Tier 1,19.3,Debit Card,Male,2.6,4,Laptop & Accessory,3,Single,19,0,11.9,13,3,38.3,191.57
+CUST000435,0,8.4,Mobile Phone,Tier 1,88.2,Credit Card,Male,2.8,3,Laptop & Accessory,4,Married,18,0,21.9,14,2,30.7,197.0
+CUST000436,1,1.8,Mobile Phone,Tier 2,120.9,E-wallet,Male,4.9,4,Mobile Phone,3,Single,7,1,15.9,11,10,30.6,317.77
+CUST000437,0,18.5,Mobile Phone,Tier 2,21.7,Cash on Delivery,Female,3.9,6,Mobile Phone,3,Married,9,0,20.8,9,5,32.2,253.32
+CUST000438,1,42.3,Computer,Tier 1,94.5,Debit Card,Male,0.5,6,Others,4,Married,22,0,15.2,5,11,31.0,170.92
+CUST000439,1,12.1,Computer,Tier 3,82.1,E-wallet,Female,3.9,4,Fashion,2,Married,21,0,19.6,8,9,17.8,265.12
+CUST000440,0,40.4,Tablet,Tier 1,76.2,Debit Card,Male,0.9,3,Grocery,4,Divorced,12,1,22.6,1,6,31.4,174.31
+CUST000441,0,58.2,Computer,Tier 3,52.6,Credit Card,Male,2.2,5,Others,4,Married,7,0,24.9,3,14,41.3,128.29
+CUST000442,1,5.6,Computer,Tier 1,48.3,Cash on Delivery,Male,1.1,4,Laptop & Accessory,3,Single,14,1,14.9,8,16,15.3,206.96
+CUST000443,0,40.4,Mobile Phone,Tier 3,10.5,Debit Card,Male,3.4,4,Mobile Phone,1,Divorced,15,1,16.0,14,8,43.5,268.98
+CUST000444,0,26.6,Mobile Phone,Tier 1,31.6,E-wallet,Female,4.4,4,Fashion,3,Single,15,1,18.0,12,8,0.6,184.97
+CUST000445,1,52.1,Mobile Phone,Tier 3,6.9,Credit Card,Female,1.5,4,Others,5,Married,6,0,24.9,7,7,16.1,295.56
+CUST000446,1,10.6,Mobile Phone,Tier 1,75.9,Credit Card,Male,0.4,3,Fashion,4,Single,21,0,24.5,15,5,6.1,187.06
+CUST000447,1,41.6,Mobile Phone,Tier 1,17.9,E-wallet,Female,1.5,5,Mobile Phone,4,Divorced,14,0,12.3,10,2,5.8,178.71
+CUST000448,1,50.3,Mobile Phone,Tier 3,111.5,E-wallet,Female,3.4,5,Others,2,Divorced,2,0,13.0,9,14,37.5,324.6
+CUST000449,0,56.7,Mobile Phone,Tier 2,68.8,Debit Card,Male,1.6,1,Others,3,Single,8,0,18.4,7,15,42.2,208.56
+CUST000450,0,41.0,Tablet,Tier 3,90.4,UPI,Male,1.4,4,Fashion,2,Single,13,0,12.6,0,10,35.8,281.17
+CUST000451,1,29.8,Tablet,Tier 2,55.1,Credit Card,Female,0.9,4,Mobile Phone,4,Single,6,1,16.2,9,10,44.9,281.12
+CUST000452,0,37.1,Tablet,Tier 1,73.4,Debit Card,Female,2.5,1,Laptop & Accessory,3,Divorced,5,0,13.2,2,5,10.0,308.43
+CUST000453,0,52.1,Tablet,Tier 3,120.0,E-wallet,Female,1.4,5,Others,3,Married,5,0,20.5,10,12,6.5,119.1
+CUST000454,1,34.2,Mobile Phone,Tier 3,15.1,Debit Card,Female,3.7,2,Laptop & Accessory,5,Single,1,0,25.2,2,16,24.0,161.02
+CUST000455,0,1.8,Tablet,Tier 3,36.0,E-wallet,Male,0.4,6,Mobile Phone,5,Married,9,0,26.0,7,7,38.1,272.74
+CUST000456,0,55.9,Mobile Phone,Tier 2,100.2,Cash on Delivery,Male,3.3,2,Others,1,Divorced,6,0,16.6,13,12,1.8,226.59
+CUST000457,0,41.4,Tablet,Tier 2,17.0,E-wallet,Female,1.2,5,Others,5,Single,20,0,20.0,5,12,45.8,225.91
+CUST000458,0,40.6,Computer,Tier 1,14.2,E-wallet,Male,2.4,4,Laptop & Accessory,3,Single,7,0,23.8,14,7,27.7,137.4
+CUST000459,0,12.9,Tablet,Tier 2,49.1,E-wallet,Female,1.4,2,Grocery,5,Divorced,9,0,12.8,13,11,45.0,163.26
+CUST000460,0,39.5,Tablet,Tier 2,16.2,UPI,Female,3.6,3,Laptop & Accessory,1,Single,5,1,21.3,6,16,16.8,217.3
+CUST000461,0,23.6,Mobile Phone,Tier 1,76.4,E-wallet,Male,4.7,3,Laptop & Accessory,4,Married,14,1,17.1,9,13,21.1,162.37
+CUST000462,0,39.1,Tablet,Tier 3,32.6,Credit Card,Female,4.6,1,Grocery,5,Divorced,5,1,14.1,14,15,34.6,147.31
+CUST000463,1,6.4,Computer,Tier 3,114.3,Credit Card,Female,2.9,5,Mobile Phone,3,Divorced,8,0,17.0,9,2,36.5,119.75
+CUST000464,0,39.5,Mobile Phone,Tier 1,100.6,Debit Card,Male,2.3,5,Mobile Phone,4,Single,7,0,12.1,16,7,10.7,135.04
+CUST000465,1,60.0,Mobile Phone,Tier 3,90.4,UPI,Male,4.1,2,Others,3,Divorced,13,0,21.4,16,6,42.8,273.0
+CUST000466,0,2.9,Tablet,Tier 2,80.3,Debit Card,Female,3.4,4,Fashion,4,Single,13,0,14.8,11,7,39.9,261.73
+CUST000467,0,58.6,Mobile Phone,Tier 1,110.3,Credit Card,Female,0.9,5,Fashion,3,Single,8,0,15.7,14,11,0.8,110.31
+CUST000468,1,24.4,Mobile Phone,Tier 1,32.2,Credit Card,Male,4.1,2,Others,5,Divorced,11,0,12.8,11,16,5.9,145.74
+CUST000469,0,52.2,Mobile Phone,Tier 1,111.5,Cash on Delivery,Female,2.1,2,Fashion,5,Single,18,0,24.0,8,8,22.8,226.1
+CUST000470,1,46.9,Mobile Phone,Tier 3,101.3,E-wallet,Female,0.9,6,Laptop & Accessory,1,Married,19,0,18.4,4,4,21.2,172.59
+CUST000471,0,34.0,Mobile Phone,Tier 1,96.3,Credit Card,Male,1.4,6,Laptop & Accessory,4,Married,6,1,19.6,3,1,32.6,285.23
+CUST000472,1,44.3,Mobile Phone,Tier 1,73.5,Debit Card,Male,1.3,5,Grocery,1,Single,22,0,19.5,11,8,4.1,276.62
+CUST000473,0,52.7,Computer,Tier 1,35.0,Debit Card,Male,2.6,2,Grocery,2,Married,2,0,17.2,15,8,29.7,300.61
+CUST000474,1,24.2,Tablet,Tier 3,56.7,E-wallet,Male,1.2,1,Others,5,Single,13,0,13.9,8,3,28.4,226.66
+CUST000475,0,19.6,Computer,Tier 2,101.8,E-wallet,Male,0.6,1,Others,4,Married,11,0,22.2,2,3,10.7,179.22
+CUST000476,1,40.1,Mobile Phone,Tier 1,8.9,Cash on Delivery,Male,0.6,6,Others,1,Divorced,1,0,12.9,2,5,25.0,236.36
+CUST000477,0,48.5,Mobile Phone,Tier 2,100.4,UPI,Female,2.9,5,Laptop & Accessory,1,Single,2,0,12.6,16,14,10.2,120.06
+CUST000478,0,45.7,Tablet,Tier 3,34.3,Debit Card,Female,3.7,4,Fashion,2,Single,17,0,21.7,9,3,6.8,102.16
+CUST000479,1,47.9,Computer,Tier 3,22.6,E-wallet,Male,1.6,1,Others,1,Single,8,1,14.1,1,15,26.4,103.85
+CUST000480,0,26.1,Tablet,Tier 3,19.1,Debit Card,Male,0.2,1,Others,3,Single,2,1,15.6,10,14,45.0,191.7
+CUST000481,0,49.1,Computer,Tier 3,8.3,E-wallet,Female,0.6,6,Laptop & Accessory,5,Single,6,0,18.1,2,5,10.9,151.32
+CUST000482,0,7.2,Mobile Phone,Tier 2,68.9,Credit Card,Female,4.6,6,Laptop & Accessory,1,Single,22,0,17.7,1,15,16.3,135.4
+CUST000483,0,32.7,Tablet,Tier 1,31.6,Debit Card,Female,2.5,5,Laptop & Accessory,1,Divorced,5,0,21.6,8,8,11.8,238.45
+CUST000484,0,0.3,Tablet,Tier 3,125.7,Credit Card,Male,2.3,6,Fashion,2,Divorced,16,1,20.4,1,1,12.3,323.9
+CUST000485,0,19.5,Mobile Phone,Tier 3,75.1,Debit Card,Male,0.2,3,Others,3,Married,8,0,20.7,1,2,18.6,139.99
+CUST000486,1,22.0,Tablet,Tier 2,21.8,UPI,Female,3.6,2,Mobile Phone,1,Single,19,0,21.7,14,2,32.3,222.94
+CUST000487,0,23.8,Computer,Tier 2,89.0,Cash on Delivery,Male,2.6,1,Mobile Phone,5,Married,16,0,15.4,2,12,1.8,126.94
+CUST000488,0,41.7,Computer,Tier 3,114.5,Credit Card,Male,1.0,3,Others,5,Married,13,0,15.8,4,16,44.0,310.2
+CUST000489,1,23.3,Computer,Tier 1,95.9,E-wallet,Male,0.6,4,Others,1,Divorced,20,1,17.6,10,4,2.1,165.64
+CUST000490,1,26.9,Computer,Tier 1,14.3,UPI,Female,1.9,3,Others,3,Married,7,0,15.6,6,9,40.5,297.63
+CUST000491,0,14.3,Mobile Phone,Tier 3,114.3,Debit Card,Female,4.2,5,Others,5,Divorced,16,0,25.8,5,2,41.1,163.69
+CUST000492,0,22.4,Tablet,Tier 2,101.9,Credit Card,Male,4.3,4,Fashion,5,Married,16,0,23.2,13,12,24.1,281.36
+CUST000493,0,13.6,Computer,Tier 3,24.3,Debit Card,Male,3.0,4,Mobile Phone,3,Single,12,0,13.5,0,16,6.3,147.11
+CUST000494,0,4.4,Mobile Phone,Tier 3,11.3,Debit Card,Male,3.6,6,Grocery,3,Married,14,1,11.1,16,14,26.0,165.88
+CUST000495,0,36.2,Tablet,Tier 2,73.0,Debit Card,Male,0.6,3,Mobile Phone,1,Divorced,18,1,11.6,16,11,28.9,143.31
+CUST000496,0,40.1,Tablet,Tier 3,24.0,Cash on Delivery,Male,2.9,5,Mobile Phone,4,Divorced,18,0,14.7,13,13,39.5,159.46
+CUST000497,0,37.2,Mobile Phone,Tier 3,106.8,Cash on Delivery,Female,3.3,1,Laptop & Accessory,2,Divorced,16,0,12.7,9,15,25.3,287.84
+CUST000498,0,27.8,Mobile Phone,Tier 3,48.7,E-wallet,Male,1.0,6,Others,4,Married,20,0,19.0,7,12,18.9,243.78
+CUST000499,1,22.8,Computer,Tier 2,116.4,Credit Card,Male,4.4,3,Others,4,Married,16,0,23.9,7,9,38.6,191.32
+CUST000500,1,51.8,Tablet,Tier 1,74.0,UPI,Male,1.0,1,Others,5,Divorced,13,0,22.1,13,7,45.1,318.59
+CUST000501,0,31.1,Tablet,Tier 1,27.3,UPI,Female,1.6,3,Laptop & Accessory,3,Single,9,0,14.2,6,10,29.7,204.59
+CUST000502,0,28.8,Mobile Phone,Tier 2,22.0,UPI,Female,3.1,6,Fashion,5,Single,9,0,17.0,5,8,40.2,318.2
+CUST000503,0,1.5,Tablet,Tier 1,75.3,Debit Card,Male,3.2,1,Fashion,2,Married,13,0,18.6,3,1,27.5,144.23
+CUST000504,1,20.5,Computer,Tier 3,97.9,Cash on Delivery,Female,3.5,6,Grocery,1,Married,4,0,23.2,0,13,31.7,303.54
+CUST000505,0,22.8,Tablet,Tier 1,100.3,Credit Card,Female,0.6,3,Fashion,2,Divorced,9,1,23.6,14,5,31.7,103.11
+CUST000506,0,23.9,Mobile Phone,Tier 3,38.6,Debit Card,Female,4.2,4,Fashion,5,Married,15,0,24.6,14,9,32.4,222.69
+CUST000507,1,34.8,Mobile Phone,Tier 1,29.9,Cash on Delivery,Female,2.7,2,Others,5,Married,14,0,18.6,0,12,14.8,195.19
+CUST000508,1,32.0,Computer,Tier 2,7.0,Cash on Delivery,Female,2.4,4,Mobile Phone,5,Divorced,19,0,21.4,2,4,26.5,218.14
+CUST000509,1,36.5,Computer,Tier 1,87.9,Credit Card,Female,4.9,6,Fashion,5,Divorced,12,0,12.7,4,2,27.3,224.53
+CUST000510,1,45.9,Tablet,Tier 1,14.3,Credit Card,Male,3.7,6,Fashion,4,Married,21,0,19.5,4,6,14.5,187.53
+CUST000511,0,48.8,Tablet,Tier 1,56.3,Credit Card,Female,0.6,6,Laptop & Accessory,1,Single,6,0,14.7,3,2,16.1,324.59
+CUST000512,0,43.1,Mobile Phone,Tier 2,78.4,Debit Card,Female,3.8,1,Grocery,4,Married,3,1,17.5,16,3,35.1,319.71
+CUST000513,1,57.3,Computer,Tier 1,119.3,E-wallet,Male,0.5,5,Laptop & Accessory,5,Single,22,0,20.5,13,14,26.8,316.39
+CUST000514,1,1.1,Computer,Tier 2,43.0,Credit Card,Male,0.1,6,Others,3,Single,20,0,14.9,7,8,6.9,320.29
+CUST000515,0,11.7,Computer,Tier 3,35.5,E-wallet,Male,2.0,4,Mobile Phone,4,Single,16,0,11.8,1,15,38.5,278.43
+CUST000516,0,0.5,Tablet,Tier 1,84.8,Debit Card,Male,5.0,2,Grocery,5,Divorced,20,0,11.2,7,16,40.6,322.43
+CUST000517,0,38.8,Computer,Tier 2,80.5,E-wallet,Female,0.9,6,Laptop & Accessory,5,Divorced,17,0,11.3,0,3,21.4,300.78
+CUST000518,1,53.9,Mobile Phone,Tier 2,45.5,UPI,Female,3.4,6,Fashion,1,Divorced,16,0,11.1,3,2,9.6,193.58
+CUST000519,1,14.6,Mobile Phone,Tier 1,118.2,E-wallet,Female,0.9,6,Fashion,2,Married,6,0,12.7,4,6,43.6,276.57
+CUST000520,0,55.6,Tablet,Tier 3,108.1,Credit Card,Female,3.6,1,Grocery,4,Divorced,8,0,14.6,4,14,40.6,305.22
+CUST000521,0,3.6,Tablet,Tier 2,32.3,Debit Card,Male,2.5,6,Fashion,4,Divorced,19,0,14.3,11,3,11.2,260.34
+CUST000522,0,56.1,Computer,Tier 1,34.2,Credit Card,Female,3.4,4,Laptop & Accessory,4,Married,2,0,25.8,0,16,4.4,195.13
+CUST000523,1,21.1,Tablet,Tier 3,67.5,UPI,Female,1.0,3,Laptop & Accessory,5,Married,14,0,15.6,6,1,20.3,114.8
+CUST000524,1,6.1,Mobile Phone,Tier 2,99.4,Credit Card,Male,3.7,5,Fashion,1,Single,22,0,12.9,16,12,31.1,282.18
+CUST000525,1,29.2,Computer,Tier 2,10.4,Credit Card,Female,5.0,6,Fashion,5,Married,12,0,19.2,1,14,8.1,314.37
+CUST000526,0,15.4,Mobile Phone,Tier 3,89.6,Credit Card,Female,3.3,1,Others,5,Married,17,1,23.9,10,15,23.6,181.55
+CUST000527,0,17.1,Computer,Tier 3,84.1,Cash on Delivery,Female,2.5,4,Mobile Phone,3,Divorced,15,0,21.2,6,15,19.6,134.18
+CUST000528,0,18.4,Tablet,Tier 1,33.2,UPI,Female,4.6,6,Grocery,1,Single,18,1,15.4,16,14,41.0,173.46
+CUST000529,0,48.2,Computer,Tier 1,88.1,Credit Card,Male,0.1,1,Laptop & Accessory,4,Single,16,0,19.4,2,3,19.8,231.09
+CUST000530,1,32.3,Computer,Tier 2,119.7,Credit Card,Male,3.6,3,Grocery,2,Married,13,1,21.7,5,6,24.6,171.31
+CUST000531,1,18.7,Mobile Phone,Tier 3,10.7,Credit Card,Male,4.4,2,Others,4,Divorced,21,0,21.9,10,16,43.9,237.39
+CUST000532,1,36.6,Mobile Phone,Tier 3,44.0,Debit Card,Male,0.3,6,Laptop & Accessory,5,Divorced,17,0,21.0,9,3,13.8,317.54
+CUST000533,1,43.0,Computer,Tier 3,58.5,Cash on Delivery,Male,2.3,4,Others,1,Divorced,8,0,24.1,4,9,13.3,250.92
+CUST000534,0,16.4,Tablet,Tier 2,114.7,Debit Card,Female,1.0,1,Others,1,Divorced,1,0,24.1,14,7,36.8,181.6
+CUST000535,1,24.8,Tablet,Tier 3,122.4,Cash on Delivery,Female,2.8,1,Fashion,1,Married,3,0,19.7,3,14,12.8,310.54
+CUST000536,1,7.3,Mobile Phone,Tier 3,59.2,Credit Card,Male,3.2,6,Grocery,3,Divorced,16,0,17.4,0,5,38.3,227.27
+CUST000537,1,10.9,Tablet,Tier 2,96.5,UPI,Male,1.5,1,Grocery,4,Single,2,0,20.6,14,2,4.4,128.88
+CUST000538,0,40.9,Mobile Phone,Tier 1,69.9,E-wallet,Male,2.3,2,Fashion,3,Single,15,1,23.3,16,15,5.1,212.27
+CUST000539,0,10.9,Tablet,Tier 1,70.6,E-wallet,Female,1.4,1,Grocery,2,Married,1,0,11.1,13,9,41.5,247.07
+CUST000540,0,31.5,Computer,Tier 2,38.9,Credit Card,Male,1.8,5,Fashion,5,Divorced,9,1,25.9,1,5,24.9,288.61
+CUST000541,1,42.5,Mobile Phone,Tier 3,31.5,Debit Card,Female,0.8,5,Laptop & Accessory,3,Divorced,16,0,13.7,5,7,33.1,310.71
+CUST000542,0,6.4,Mobile Phone,Tier 2,40.1,UPI,Female,4.4,1,Others,3,Divorced,4,0,18.1,12,9,10.4,171.42
+CUST000543,0,34.0,Computer,Tier 1,72.9,Cash on Delivery,Female,0.1,6,Others,5,Divorced,12,0,24.1,16,4,7.6,134.99
+CUST000544,0,15.4,Mobile Phone,Tier 1,8.6,Credit Card,Female,4.4,5,Grocery,1,Married,1,0,14.4,5,9,38.4,116.61
+CUST000545,0,57.8,Tablet,Tier 2,115.7,UPI,Male,2.9,4,Mobile Phone,5,Divorced,1,0,18.2,4,1,16.5,266.13
+CUST000546,0,29.0,Tablet,Tier 2,24.1,UPI,Female,1.7,5,Others,4,Married,7,1,13.0,6,12,20.9,278.91
+CUST000547,0,48.4,Mobile Phone,Tier 1,31.9,Cash on Delivery,Female,3.6,1,Fashion,5,Divorced,18,0,16.9,0,6,1.3,192.11
+CUST000548,0,33.0,Tablet,Tier 2,68.2,UPI,Male,2.5,6,Mobile Phone,1,Divorced,15,0,13.7,12,2,17.8,189.08
+CUST000549,0,2.6,Mobile Phone,Tier 1,91.6,Debit Card,Female,2.5,3,Mobile Phone,5,Single,13,1,16.5,0,8,35.4,314.7
+CUST000550,1,38.0,Computer,Tier 2,16.7,Debit Card,Female,0.6,6,Others,3,Married,16,0,16.6,12,5,37.8,306.25
+CUST000551,0,57.1,Mobile Phone,Tier 2,43.8,Debit Card,Female,1.9,6,Others,2,Single,7,1,25.9,10,15,32.1,152.48
+CUST000552,1,36.1,Computer,Tier 2,123.2,UPI,Male,1.2,6,Others,3,Married,16,1,25.9,6,16,31.8,275.68
+CUST000553,0,49.2,Tablet,Tier 1,37.0,Debit Card,Female,0.1,4,Fashion,2,Divorced,13,0,12.7,2,3,23.3,240.11
+CUST000554,0,53.1,Computer,Tier 2,43.2,Cash on Delivery,Female,1.8,2,Mobile Phone,5,Divorced,14,0,21.9,0,2,24.8,134.7
+CUST000555,1,13.7,Tablet,Tier 1,107.1,UPI,Male,0.4,1,Grocery,4,Married,17,0,11.8,7,8,34.2,180.27
+CUST000556,0,12.7,Mobile Phone,Tier 1,11.1,E-wallet,Male,1.3,2,Fashion,5,Single,12,1,11.5,16,7,11.4,139.93
+CUST000557,0,36.7,Tablet,Tier 2,61.7,UPI,Female,0.5,3,Laptop & Accessory,1,Married,20,0,12.6,12,9,10.6,166.41
+CUST000558,0,24.7,Mobile Phone,Tier 2,51.3,Cash on Delivery,Female,0.5,2,Others,5,Married,13,0,25.5,13,8,43.7,238.44
+CUST000559,1,50.4,Mobile Phone,Tier 1,43.6,E-wallet,Male,1.0,1,Mobile Phone,2,Divorced,20,1,25.1,4,11,1.3,184.43
+CUST000560,0,54.0,Computer,Tier 1,39.9,UPI,Female,5.0,1,Fashion,3,Single,15,0,13.9,5,4,6.4,188.66
+CUST000561,1,21.2,Computer,Tier 3,16.1,Debit Card,Male,0.0,3,Laptop & Accessory,4,Married,21,1,13.4,5,16,26.2,221.42
+CUST000562,0,14.2,Computer,Tier 1,43.4,Credit Card,Female,3.2,1,Fashion,5,Single,4,0,14.6,7,2,33.9,119.63
+CUST000563,0,46.8,Computer,Tier 3,10.3,Credit Card,Male,0.7,3,Fashion,5,Single,22,0,18.7,12,14,24.7,266.23
+CUST000564,0,16.5,Tablet,Tier 3,100.3,Debit Card,Female,4.6,3,Grocery,3,Married,2,1,19.5,3,13,16.3,190.38
+CUST000565,0,49.4,Tablet,Tier 3,53.6,Credit Card,Male,0.5,1,Grocery,4,Single,18,0,14.3,16,2,45.0,208.09
+CUST000566,0,25.4,Tablet,Tier 2,59.2,Credit Card,Male,4.8,5,Fashion,5,Divorced,2,0,22.3,4,2,32.4,319.22
+CUST000567,0,40.1,Mobile Phone,Tier 2,114.0,Debit Card,Male,3.1,3,Laptop & Accessory,5,Divorced,15,0,15.6,2,14,38.2,177.48
+CUST000568,0,5.7,Tablet,Tier 1,85.3,Debit Card,Male,0.0,1,Mobile Phone,2,Divorced,19,0,24.8,3,11,1.9,245.85
+CUST000569,1,37.4,Tablet,Tier 3,6.0,UPI,Male,4.5,5,Mobile Phone,2,Divorced,15,0,20.9,4,12,10.9,188.31
+CUST000570,0,27.1,Tablet,Tier 2,120.1,UPI,Female,2.6,3,Others,1,Single,20,1,17.5,13,6,17.2,301.21
+CUST000571,0,35.2,Computer,Tier 2,33.9,Debit Card,Female,1.3,5,Others,3,Divorced,10,0,22.8,14,7,8.4,290.52
+CUST000572,1,10.1,Tablet,Tier 2,18.1,Cash on Delivery,Male,3.8,4,Mobile Phone,4,Married,20,0,23.3,16,12,3.4,154.37
+CUST000573,0,44.2,Mobile Phone,Tier 2,98.7,Credit Card,Female,4.6,6,Fashion,5,Divorced,11,0,15.4,5,6,10.4,255.64
+CUST000574,0,51.8,Computer,Tier 2,66.1,UPI,Female,2.4,4,Fashion,5,Married,10,0,16.1,9,2,24.5,114.66
+CUST000575,1,13.0,Mobile Phone,Tier 3,57.9,Credit Card,Female,1.6,5,Grocery,1,Married,5,1,25.0,15,4,32.0,316.72
+CUST000576,1,5.7,Tablet,Tier 3,35.4,E-wallet,Female,3.9,3,Grocery,5,Divorced,9,1,13.5,16,3,35.6,178.52
+CUST000577,0,1.4,Computer,Tier 3,71.8,Debit Card,Female,3.4,1,Others,3,Divorced,20,0,11.6,13,11,2.0,287.16
+CUST000578,1,38.5,Mobile Phone,Tier 3,38.5,Cash on Delivery,Female,4.4,2,Mobile Phone,1,Single,19,0,17.8,11,13,19.7,171.65
+CUST000579,0,36.4,Tablet,Tier 1,115.0,E-wallet,Male,3.5,1,Fashion,3,Married,13,0,23.0,8,4,5.6,242.37
+CUST000580,0,32.8,Mobile Phone,Tier 3,31.3,E-wallet,Female,1.2,2,Mobile Phone,1,Divorced,18,0,22.6,14,5,19.8,321.31
+CUST000581,0,13.9,Mobile Phone,Tier 2,112.9,E-wallet,Female,4.7,2,Laptop & Accessory,5,Single,17,0,24.8,11,7,20.0,297.27
+CUST000582,1,23.5,Mobile Phone,Tier 3,73.2,Debit Card,Female,0.5,3,Mobile Phone,1,Divorced,6,0,19.0,13,14,22.9,136.08
+CUST000583,0,35.7,Tablet,Tier 1,106.1,UPI,Male,1.3,5,Laptop & Accessory,2,Divorced,10,1,12.5,5,9,41.1,223.18
+CUST000584,0,29.8,Tablet,Tier 2,92.0,Debit Card,Female,2.6,1,Grocery,4,Divorced,2,0,19.8,3,15,37.0,178.42
+CUST000585,0,59.3,Mobile Phone,Tier 3,90.0,UPI,Female,2.8,5,Grocery,5,Married,6,1,22.7,11,11,29.3,197.73
+CUST000586,0,8.2,Computer,Tier 3,44.6,E-wallet,Female,0.1,4,Others,4,Divorced,21,0,12.4,12,2,40.7,175.42
+CUST000587,0,41.7,Computer,Tier 3,33.5,E-wallet,Male,3.9,3,Mobile Phone,5,Single,13,0,13.6,12,8,31.2,175.59
+CUST000588,0,24.3,Tablet,Tier 2,30.7,Cash on Delivery,Female,1.8,3,Mobile Phone,4,Divorced,18,1,11.2,11,3,37.7,222.07
+CUST000589,0,25.7,Tablet,Tier 2,109.6,UPI,Male,2.0,4,Laptop & Accessory,2,Divorced,7,0,19.9,2,9,25.9,143.19
+CUST000590,0,43.1,Tablet,Tier 1,105.1,E-wallet,Female,4.0,1,Grocery,4,Single,2,1,24.3,2,10,24.2,220.91
+CUST000591,0,41.5,Tablet,Tier 2,58.7,Credit Card,Male,1.9,6,Laptop & Accessory,1,Single,14,0,21.1,13,12,33.3,162.77
+CUST000592,0,59.5,Tablet,Tier 2,21.2,Cash on Delivery,Male,0.2,4,Grocery,4,Married,5,0,25.7,9,16,0.9,165.02
+CUST000593,0,7.7,Computer,Tier 3,51.6,Debit Card,Male,0.9,1,Laptop & Accessory,5,Married,18,1,11.9,16,4,31.8,266.22
+CUST000594,0,6.2,Tablet,Tier 2,80.6,Cash on Delivery,Female,4.8,2,Grocery,3,Married,11,0,24.5,14,15,43.0,106.66
+CUST000595,1,43.5,Mobile Phone,Tier 3,60.4,Credit Card,Male,0.4,3,Laptop & Accessory,4,Married,10,1,23.2,8,16,32.8,185.71
+CUST000596,0,34.7,Mobile Phone,Tier 3,100.2,UPI,Male,1.8,1,Grocery,4,Single,11,1,15.7,3,3,1.7,191.7
+CUST000597,0,16.4,Computer,Tier 2,126.7,Debit Card,Male,2.5,5,Laptop & Accessory,4,Divorced,2,0,25.6,14,10,17.4,209.15
+CUST000598,0,4.8,Mobile Phone,Tier 1,28.3,Debit Card,Male,2.5,5,Mobile Phone,5,Divorced,15,0,15.3,15,6,37.2,250.53
+CUST000599,0,5.1,Computer,Tier 1,61.1,UPI,Female,0.0,3,Others,4,Divorced,7,0,24.3,7,16,44.1,183.18
+CUST000600,0,53.7,Computer,Tier 2,57.6,Cash on Delivery,Female,2.5,4,Laptop & Accessory,5,Married,9,0,24.2,16,10,17.0,147.96
+CUST000601,0,11.5,Mobile Phone,Tier 1,42.1,E-wallet,Female,1.9,6,Others,5,Single,5,1,22.4,0,13,38.7,299.1
+CUST000602,0,19.4,Tablet,Tier 3,29.2,Cash on Delivery,Female,4.9,4,Mobile Phone,3,Single,7,0,19.5,6,9,39.7,320.73
+CUST000603,0,13.6,Mobile Phone,Tier 3,13.0,Credit Card,Male,0.8,1,Mobile Phone,1,Single,20,0,12.8,11,7,5.7,104.5
+CUST000604,0,21.3,Mobile Phone,Tier 2,113.2,E-wallet,Female,1.8,4,Grocery,5,Divorced,2,0,19.0,15,4,38.9,222.96
+CUST000605,0,4.2,Computer,Tier 1,56.2,Cash on Delivery,Male,2.1,3,Others,2,Married,3,0,16.4,0,3,14.9,176.88
+CUST000606,0,31.1,Mobile Phone,Tier 1,65.6,UPI,Female,2.0,1,Fashion,4,Single,2,1,22.9,14,10,27.3,162.32
+CUST000607,0,4.1,Computer,Tier 3,116.9,Credit Card,Female,3.3,2,Grocery,2,Married,21,0,22.4,6,4,24.8,175.53
+CUST000608,0,48.0,Tablet,Tier 2,99.7,Credit Card,Female,1.1,4,Others,4,Single,22,1,24.7,16,3,30.5,243.75
+CUST000609,0,14.0,Tablet,Tier 1,20.9,Credit Card,Male,1.1,4,Laptop & Accessory,3,Married,19,0,11.2,2,16,34.1,142.91
+CUST000610,0,32.4,Tablet,Tier 2,74.0,E-wallet,Female,3.6,6,Laptop & Accessory,5,Single,4,0,23.1,10,12,20.3,305.39
+CUST000611,0,52.8,Mobile Phone,Tier 1,59.0,Debit Card,Female,2.5,1,Mobile Phone,1,Married,20,0,25.1,5,3,40.9,204.88
+CUST000612,1,39.1,Computer,Tier 3,102.3,E-wallet,Female,2.1,5,Fashion,5,Single,7,0,22.8,5,12,37.2,173.25
+CUST000613,0,32.0,Tablet,Tier 3,93.4,Cash on Delivery,Male,0.8,4,Laptop & Accessory,4,Single,22,1,13.0,14,14,36.1,272.24
+CUST000614,0,19.5,Computer,Tier 2,89.2,Debit Card,Female,0.9,3,Others,1,Married,7,0,12.2,6,13,21.1,103.68
+CUST000615,1,20.0,Computer,Tier 3,46.5,Cash on Delivery,Female,0.1,4,Others,5,Married,17,1,11.3,10,9,1.7,197.17
+CUST000616,1,40.2,Tablet,Tier 1,103.2,Debit Card,Male,0.5,6,Laptop & Accessory,1,Divorced,19,0,20.4,16,4,22.6,179.94
+CUST000617,0,59.6,Tablet,Tier 3,11.4,E-wallet,Male,2.8,2,Others,4,Married,22,0,20.4,7,9,41.3,176.1
+CUST000618,0,39.7,Computer,Tier 2,24.5,Credit Card,Female,4.5,6,Others,3,Single,16,0,25.8,7,12,8.8,175.84
+CUST000619,1,33.5,Tablet,Tier 2,45.9,UPI,Female,1.4,4,Mobile Phone,3,Single,3,0,17.0,10,15,45.2,107.04
+CUST000620,1,43.8,Computer,Tier 2,14.4,Credit Card,Female,1.6,5,Fashion,5,Married,15,0,16.0,2,10,37.2,134.23
+CUST000621,0,27.9,Computer,Tier 1,33.7,E-wallet,Male,0.6,4,Mobile Phone,2,Divorced,14,0,20.4,13,5,32.7,131.92
+CUST000622,0,3.6,Tablet,Tier 1,106.3,Debit Card,Male,1.9,1,Fashion,4,Married,15,1,23.4,8,7,31.1,322.44
+CUST000623,0,33.7,Mobile Phone,Tier 1,120.7,Credit Card,Male,0.2,4,Others,5,Single,14,0,25.1,0,14,27.0,104.99
+CUST000624,0,57.5,Tablet,Tier 1,42.2,E-wallet,Female,4.6,5,Fashion,5,Single,7,0,23.0,0,5,33.2,137.59
+CUST000625,0,10.5,Mobile Phone,Tier 1,37.3,Cash on Delivery,Male,3.4,1,Others,3,Divorced,3,0,17.4,11,1,19.4,319.19
+CUST000626,0,41.4,Computer,Tier 3,39.1,UPI,Female,5.0,3,Others,1,Married,17,0,20.5,10,2,38.9,241.36
+CUST000627,0,12.1,Computer,Tier 1,38.9,Credit Card,Male,4.4,1,Mobile Phone,4,Single,10,1,23.8,0,11,32.0,201.4
+CUST000628,1,32.1,Mobile Phone,Tier 1,9.4,Debit Card,Male,2.4,6,Mobile Phone,1,Single,15,0,18.4,11,15,35.5,117.72
+CUST000629,0,5.8,Computer,Tier 3,118.1,Cash on Delivery,Male,2.6,2,Grocery,4,Single,6,0,14.3,16,5,36.5,250.67
+CUST000630,0,27.0,Mobile Phone,Tier 1,31.1,E-wallet,Female,1.0,6,Laptop & Accessory,2,Married,17,0,13.5,14,6,4.2,131.01
+CUST000631,1,45.4,Mobile Phone,Tier 2,56.2,UPI,Female,2.3,1,Grocery,3,Married,17,0,11.0,1,7,2.6,251.02
+CUST000632,1,20.9,Computer,Tier 1,6.2,Debit Card,Female,4.5,3,Grocery,2,Divorced,14,0,21.8,15,2,36.8,320.31
+CUST000633,0,39.9,Mobile Phone,Tier 1,109.7,E-wallet,Female,0.3,4,Fashion,5,Single,18,0,12.7,3,10,11.9,219.69
+CUST000634,0,47.7,Tablet,Tier 2,94.2,E-wallet,Male,4.3,1,Others,3,Single,5,0,14.7,7,9,26.8,148.17
+CUST000635,0,55.6,Tablet,Tier 2,120.5,Credit Card,Female,1.7,6,Others,5,Divorced,8,0,15.5,1,6,20.4,240.69
+CUST000636,0,14.1,Computer,Tier 2,100.4,Credit Card,Male,4.5,1,Others,2,Single,7,1,19.4,13,2,1.0,215.41
+CUST000637,0,24.0,Computer,Tier 2,43.3,Debit Card,Female,4.7,1,Laptop & Accessory,4,Divorced,4,0,17.0,14,16,1.9,219.96
+CUST000638,0,9.1,Mobile Phone,Tier 1,35.2,E-wallet,Female,3.4,1,Fashion,5,Divorced,18,1,21.1,8,2,38.0,207.57
+CUST000639,0,59.5,Mobile Phone,Tier 2,90.1,Credit Card,Male,3.3,3,Fashion,1,Single,5,0,11.8,1,3,28.0,251.59
+CUST000640,0,55.6,Mobile Phone,Tier 2,49.4,UPI,Male,2.3,5,Others,4,Married,16,1,12.9,16,1,24.1,228.69
+CUST000641,0,32.4,Mobile Phone,Tier 3,74.1,UPI,Female,4.2,5,Grocery,4,Married,14,0,18.5,9,9,43.4,322.07
+CUST000642,0,50.5,Tablet,Tier 2,5.8,E-wallet,Female,4.8,1,Laptop & Accessory,2,Married,19,0,16.1,8,14,8.0,285.82
+CUST000643,0,31.3,Tablet,Tier 2,12.6,Credit Card,Male,3.9,3,Grocery,2,Married,14,0,15.4,1,10,11.9,159.56
+CUST000644,0,37.4,Computer,Tier 3,70.3,Debit Card,Male,3.1,3,Mobile Phone,3,Single,9,0,12.0,16,11,34.8,263.3
+CUST000645,0,5.3,Mobile Phone,Tier 3,74.1,Debit Card,Male,3.0,1,Fashion,3,Divorced,6,0,24.4,10,4,35.7,148.22
+CUST000646,1,45.3,Mobile Phone,Tier 1,96.7,Debit Card,Male,4.2,6,Fashion,1,Divorced,17,0,21.4,16,5,18.6,276.03
+CUST000647,0,7.7,Computer,Tier 3,21.1,UPI,Male,2.7,6,Grocery,4,Single,19,0,12.8,9,16,43.7,133.2
+CUST000648,0,49.6,Mobile Phone,Tier 1,67.6,Credit Card,Female,4.0,2,Laptop & Accessory,1,Married,12,0,12.0,5,7,43.2,206.55
+CUST000649,1,46.9,Mobile Phone,Tier 3,28.7,Credit Card,Female,2.5,1,Fashion,1,Divorced,4,0,25.6,15,1,0.6,277.89
+CUST000650,0,42.5,Mobile Phone,Tier 3,16.4,UPI,Female,0.3,2,Grocery,2,Single,16,1,21.2,0,3,7.9,163.03
+CUST000651,0,2.2,Mobile Phone,Tier 1,55.1,Debit Card,Female,1.9,6,Laptop & Accessory,1,Single,11,0,17.3,2,14,37.7,288.35
+CUST000652,0,18.2,Mobile Phone,Tier 3,24.9,Debit Card,Male,2.2,6,Grocery,1,Married,22,0,21.5,14,3,15.4,244.93
+CUST000653,0,15.8,Computer,Tier 1,32.1,E-wallet,Male,0.7,1,Laptop & Accessory,5,Single,4,0,22.3,9,2,4.4,189.44
+CUST000654,1,21.6,Mobile Phone,Tier 3,43.7,Cash on Delivery,Male,0.5,2,Others,3,Divorced,17,0,22.7,4,8,36.1,195.27
+CUST000655,0,5.3,Computer,Tier 2,36.6,Credit Card,Female,2.7,2,Laptop & Accessory,3,Divorced,8,0,18.2,14,5,20.9,308.35
+CUST000656,0,56.2,Mobile Phone,Tier 3,15.7,Credit Card,Male,0.4,1,Mobile Phone,4,Single,14,1,17.4,13,1,22.7,149.0
+CUST000657,0,33.2,Tablet,Tier 1,16.0,Credit Card,Male,1.5,2,Others,3,Divorced,2,0,11.2,14,12,8.6,256.01
+CUST000658,0,18.3,Tablet,Tier 3,28.6,Cash on Delivery,Female,3.7,4,Grocery,4,Single,11,0,24.9,9,2,30.4,259.14
+CUST000659,0,23.8,Tablet,Tier 1,11.2,E-wallet,Female,4.8,6,Others,5,Divorced,11,0,20.0,8,1,25.4,307.55
+CUST000660,0,26.8,Tablet,Tier 1,81.4,Cash on Delivery,Female,3.6,5,Others,3,Married,22,0,14.0,11,15,9.5,260.46
+CUST000661,0,36.0,Computer,Tier 2,40.1,Debit Card,Male,5.0,3,Grocery,5,Divorced,6,1,24.8,6,6,15.7,231.51
+CUST000662,1,30.9,Computer,Tier 2,39.1,Debit Card,Male,3.5,2,Grocery,3,Married,21,1,24.7,4,9,27.5,303.07
+CUST000663,0,55.2,Mobile Phone,Tier 1,45.5,Credit Card,Female,1.5,2,Mobile Phone,3,Married,21,0,25.8,9,11,42.5,286.55
+CUST000664,0,29.8,Tablet,Tier 3,85.9,UPI,Female,3.4,3,Grocery,5,Single,14,0,24.1,7,7,42.3,261.27
+CUST000665,0,59.5,Computer,Tier 1,111.2,Credit Card,Male,3.5,2,Fashion,1,Married,10,0,26.0,15,5,13.2,107.33
+CUST000666,0,51.1,Mobile Phone,Tier 1,97.6,UPI,Female,1.9,3,Fashion,1,Divorced,8,0,14.7,11,16,33.8,184.04
+CUST000667,0,12.5,Mobile Phone,Tier 3,93.8,Cash on Delivery,Male,0.1,1,Mobile Phone,1,Divorced,7,0,23.6,8,12,35.7,242.18
+CUST000668,0,55.8,Computer,Tier 3,64.1,Debit Card,Female,3.5,4,Laptop & Accessory,1,Married,8,0,23.3,9,13,37.2,217.51
+CUST000669,0,7.0,Tablet,Tier 3,89.6,UPI,Female,0.1,4,Laptop & Accessory,3,Single,8,0,14.5,15,3,26.3,171.85
+CUST000670,0,49.0,Mobile Phone,Tier 3,72.4,Cash on Delivery,Female,3.2,6,Fashion,2,Married,2,0,12.5,9,12,0.5,132.5
+CUST000671,0,22.8,Tablet,Tier 1,31.4,Debit Card,Male,0.8,5,Grocery,5,Divorced,16,0,25.7,8,12,35.0,224.42
+CUST000672,1,52.7,Tablet,Tier 1,30.4,UPI,Male,2.8,2,Mobile Phone,2,Divorced,9,1,15.4,2,8,4.9,164.33
+CUST000673,0,52.1,Tablet,Tier 2,41.2,Credit Card,Female,2.5,5,Laptop & Accessory,2,Married,13,0,24.1,10,10,5.4,152.43
+CUST000674,0,48.4,Mobile Phone,Tier 1,116.1,Credit Card,Male,0.1,1,Laptop & Accessory,4,Married,12,1,11.1,5,4,27.9,189.77
+CUST000675,0,47.4,Tablet,Tier 3,71.8,Credit Card,Female,1.8,4,Others,1,Married,22,0,11.3,5,9,45.2,276.74
+CUST000676,1,18.3,Mobile Phone,Tier 2,94.5,Cash on Delivery,Female,3.0,1,Fashion,3,Divorced,17,0,18.0,14,5,11.2,209.77
+CUST000677,0,4.9,Tablet,Tier 3,47.3,Credit Card,Male,4.2,1,Grocery,1,Divorced,2,1,14.6,14,14,29.7,148.71
+CUST000678,0,24.2,Mobile Phone,Tier 1,54.7,E-wallet,Male,4.4,2,Mobile Phone,1,Divorced,13,1,21.3,12,6,14.0,126.3
+CUST000679,1,10.4,Tablet,Tier 2,20.3,Debit Card,Male,2.4,1,Laptop & Accessory,2,Single,1,0,19.5,4,5,41.3,212.27
+CUST000680,1,41.7,Computer,Tier 3,25.9,Cash on Delivery,Male,3.6,4,Others,4,Divorced,19,0,12.2,13,10,27.3,278.73
+CUST000681,1,20.8,Tablet,Tier 2,105.9,Credit Card,Female,1.6,5,Fashion,1,Divorced,11,1,13.4,1,12,9.5,246.88
+CUST000682,0,58.5,Tablet,Tier 2,76.4,Debit Card,Male,1.7,4,Fashion,5,Single,5,0,16.8,11,11,12.1,152.23
+CUST000683,0,38.5,Mobile Phone,Tier 1,46.2,UPI,Male,1.0,2,Mobile Phone,5,Single,1,0,13.8,13,7,19.9,198.26
+CUST000684,0,49.3,Mobile Phone,Tier 3,102.9,Credit Card,Female,2.8,4,Laptop & Accessory,1,Single,20,1,22.9,14,7,5.6,292.43
+CUST000685,1,8.0,Tablet,Tier 2,35.1,Debit Card,Female,1.6,3,Mobile Phone,2,Single,13,0,17.2,16,1,3.6,139.97
+CUST000686,0,51.7,Computer,Tier 2,124.1,E-wallet,Female,0.4,5,Mobile Phone,2,Single,8,0,12.4,13,2,31.3,219.72
+CUST000687,0,55.4,Computer,Tier 3,47.1,UPI,Female,3.4,3,Others,3,Single,6,0,18.3,4,7,18.7,180.15
+CUST000688,0,29.2,Mobile Phone,Tier 2,46.2,E-wallet,Male,3.5,3,Fashion,4,Married,17,0,12.4,11,8,33.4,127.94
+CUST000689,1,36.4,Computer,Tier 2,43.1,Debit Card,Male,1.8,6,Grocery,2,Married,12,0,12.9,9,16,5.1,111.23
+CUST000690,0,45.9,Tablet,Tier 2,19.9,E-wallet,Female,0.4,2,Fashion,3,Married,1,0,14.6,7,4,28.1,225.07
+CUST000691,0,10.5,Mobile Phone,Tier 3,18.6,Debit Card,Female,2.1,1,Fashion,5,Married,3,0,23.9,5,6,20.4,104.67
+CUST000692,0,30.2,Tablet,Tier 3,84.1,Debit Card,Male,2.2,3,Others,5,Divorced,14,0,24.9,14,11,2.7,123.28
+CUST000693,0,23.9,Mobile Phone,Tier 3,111.8,E-wallet,Male,3.3,4,Grocery,5,Single,8,0,23.4,11,12,25.1,178.2
+CUST000694,0,8.8,Mobile Phone,Tier 3,101.4,Debit Card,Male,1.6,1,Laptop & Accessory,1,Divorced,11,0,16.0,5,10,3.8,109.79
+CUST000695,0,22.1,Mobile Phone,Tier 1,22.2,Credit Card,Male,3.4,4,Grocery,4,Single,14,1,15.1,11,16,38.1,190.1
+CUST000696,0,4.1,Mobile Phone,Tier 2,71.6,Debit Card,Male,4.4,4,Laptop & Accessory,3,Single,8,0,19.2,14,3,29.1,129.33
+CUST000697,0,1.5,Computer,Tier 3,17.9,Cash on Delivery,Female,1.2,1,Grocery,4,Divorced,3,1,21.8,11,7,25.6,178.72
+CUST000698,0,8.1,Tablet,Tier 2,10.5,Debit Card,Female,4.9,1,Mobile Phone,1,Married,7,0,25.9,8,11,6.1,278.01
+CUST000699,0,57.8,Tablet,Tier 2,85.1,Cash on Delivery,Female,1.9,4,Grocery,3,Divorced,19,1,13.0,1,3,13.2,240.93
+CUST000700,0,33.0,Tablet,Tier 1,70.3,Debit Card,Female,1.3,2,Others,3,Divorced,4,0,11.7,12,11,22.7,200.22
+CUST000701,0,57.9,Mobile Phone,Tier 3,15.0,Debit Card,Male,2.1,5,Laptop & Accessory,2,Single,16,0,21.4,12,16,29.1,120.66
+CUST000702,0,25.9,Computer,Tier 3,9.3,E-wallet,Female,0.5,6,Fashion,4,Single,13,1,23.5,7,7,8.4,239.31
+CUST000703,0,18.7,Tablet,Tier 2,125.8,Credit Card,Male,0.6,5,Others,4,Single,20,1,23.7,12,12,0.4,136.83
+CUST000704,0,30.4,Computer,Tier 3,8.7,Credit Card,Male,2.1,2,Laptop & Accessory,2,Married,19,0,21.2,3,11,15.9,117.23
+CUST000705,0,26.4,Mobile Phone,Tier 2,59.2,UPI,Male,3.8,6,Laptop & Accessory,5,Divorced,5,0,25.3,5,12,22.2,249.4
+CUST000706,1,6.3,Tablet,Tier 2,66.6,E-wallet,Male,4.5,1,Fashion,1,Divorced,5,0,18.7,5,11,8.5,305.21
+CUST000707,0,38.4,Computer,Tier 1,19.3,E-wallet,Male,3.3,6,Mobile Phone,4,Married,20,1,24.7,11,8,22.6,203.63
+CUST000708,1,13.0,Mobile Phone,Tier 1,25.6,Credit Card,Male,0.5,4,Others,2,Divorced,4,0,25.5,11,3,15.6,109.22
+CUST000709,0,37.2,Computer,Tier 1,47.9,E-wallet,Male,3.4,5,Fashion,3,Divorced,2,0,23.7,16,2,20.9,298.07
+CUST000710,0,39.0,Tablet,Tier 2,97.9,Credit Card,Female,3.2,6,Fashion,2,Single,13,0,15.6,6,12,16.0,115.07
+CUST000711,1,9.1,Tablet,Tier 3,66.9,E-wallet,Male,4.0,4,Mobile Phone,5,Married,16,0,13.9,14,6,28.9,295.19
+CUST000712,0,3.7,Mobile Phone,Tier 1,82.8,Debit Card,Female,4.1,2,Others,1,Single,22,1,19.2,16,16,2.0,188.16
+CUST000713,0,46.8,Mobile Phone,Tier 3,125.2,Credit Card,Female,4.3,6,Fashion,5,Married,2,0,17.8,9,4,7.9,182.21
+CUST000714,0,27.6,Mobile Phone,Tier 1,98.7,Credit Card,Male,2.1,4,Mobile Phone,3,Single,19,0,24.2,5,8,19.9,222.13
+CUST000715,0,3.5,Computer,Tier 1,58.0,Cash on Delivery,Male,3.5,2,Others,3,Divorced,17,0,12.5,8,13,16.4,315.34
+CUST000716,1,59.7,Computer,Tier 2,59.5,E-wallet,Female,1.3,1,Grocery,3,Married,5,0,14.9,14,15,18.0,302.22
+CUST000717,1,3.5,Computer,Tier 1,80.5,E-wallet,Female,5.0,2,Laptop & Accessory,3,Married,18,0,22.3,15,14,37.0,205.82
+CUST000718,1,41.7,Mobile Phone,Tier 1,86.2,Credit Card,Female,0.9,2,Mobile Phone,2,Single,21,0,12.4,7,2,40.8,256.56
+CUST000719,0,59.0,Tablet,Tier 2,66.1,Debit Card,Female,0.1,5,Laptop & Accessory,3,Married,18,1,15.8,15,4,11.4,230.6
+CUST000720,1,14.4,Tablet,Tier 3,83.7,Debit Card,Male,0.7,4,Grocery,3,Divorced,8,0,16.8,4,2,38.5,256.03
+CUST000721,1,8.5,Computer,Tier 1,7.9,Debit Card,Male,3.9,6,Fashion,2,Divorced,15,0,20.3,13,14,21.1,286.6
+CUST000722,0,7.3,Computer,Tier 2,57.4,E-wallet,Male,2.2,5,Fashion,3,Divorced,13,0,13.4,1,2,12.6,107.76
+CUST000723,0,18.2,Tablet,Tier 1,39.0,Cash on Delivery,Female,2.2,3,Others,5,Single,13,0,23.9,2,2,45.3,173.3
+CUST000724,1,6.1,Tablet,Tier 2,20.8,Credit Card,Male,4.8,2,Mobile Phone,5,Married,16,1,17.7,13,1,37.9,315.85
+CUST000725,0,41.5,Computer,Tier 3,17.1,UPI,Female,4.6,3,Mobile Phone,4,Single,22,0,24.8,6,4,45.7,313.6
+CUST000726,1,3.7,Computer,Tier 3,78.6,Cash on Delivery,Male,1.6,5,Others,5,Divorced,20,0,18.0,14,2,7.7,102.52
+CUST000727,0,30.6,Tablet,Tier 2,68.9,UPI,Female,1.0,4,Laptop & Accessory,1,Married,13,0,15.1,16,9,6.6,145.32
+CUST000728,1,59.8,Mobile Phone,Tier 2,35.9,Cash on Delivery,Male,4.2,5,Fashion,1,Divorced,20,0,13.1,0,9,23.2,323.6
+CUST000729,0,48.8,Computer,Tier 2,62.5,Debit Card,Male,4.5,4,Fashion,1,Married,2,0,11.1,8,16,29.4,210.89
+CUST000730,0,36.9,Tablet,Tier 3,65.1,E-wallet,Female,2.7,4,Mobile Phone,2,Married,3,1,19.0,13,11,7.9,228.89
+CUST000731,0,18.4,Tablet,Tier 1,28.8,UPI,Female,3.1,1,Mobile Phone,5,Single,15,0,12.6,15,11,39.6,137.44
+CUST000732,1,37.4,Tablet,Tier 3,84.6,Cash on Delivery,Female,1.3,2,Others,1,Married,19,0,16.9,12,7,24.5,301.23
+CUST000733,0,31.6,Tablet,Tier 2,100.3,E-wallet,Female,4.0,5,Grocery,4,Divorced,13,0,19.8,5,6,18.9,152.03
+CUST000734,0,25.6,Mobile Phone,Tier 2,101.6,UPI,Female,3.2,4,Laptop & Accessory,2,Married,5,0,15.1,0,12,27.7,142.67
+CUST000735,0,7.8,Tablet,Tier 3,78.5,Credit Card,Male,2.5,5,Grocery,4,Divorced,22,0,13.6,3,3,29.2,151.33
+CUST000736,1,53.2,Computer,Tier 2,67.4,Cash on Delivery,Female,0.3,5,Grocery,5,Single,6,1,22.6,2,14,2.0,306.91
+CUST000737,0,27.0,Mobile Phone,Tier 3,12.4,Credit Card,Male,4.6,4,Mobile Phone,3,Divorced,14,0,25.2,16,12,46.0,258.14
+CUST000738,1,11.7,Tablet,Tier 2,40.1,Debit Card,Male,3.1,6,Mobile Phone,4,Married,4,0,12.5,1,14,16.7,272.93
+CUST000739,0,22.1,Mobile Phone,Tier 1,16.4,Credit Card,Male,1.0,3,Mobile Phone,3,Divorced,22,0,13.3,7,15,2.8,184.83
+CUST000740,0,24.8,Computer,Tier 1,122.6,Credit Card,Male,3.0,2,Grocery,2,Divorced,19,1,25.4,14,7,39.2,304.56
+CUST000741,0,49.7,Tablet,Tier 2,21.5,Cash on Delivery,Male,3.4,2,Laptop & Accessory,4,Married,7,0,11.6,5,1,45.7,277.62
+CUST000742,0,44.0,Computer,Tier 3,23.5,Debit Card,Female,2.6,6,Mobile Phone,4,Divorced,4,1,25.7,1,9,37.6,268.88
+CUST000743,1,46.2,Tablet,Tier 1,113.5,Credit Card,Female,3.6,1,Fashion,2,Married,2,0,11.1,14,4,39.2,318.46
+CUST000744,0,0.7,Tablet,Tier 3,120.2,E-wallet,Male,2.9,6,Laptop & Accessory,2,Single,7,1,24.1,11,6,28.8,182.39
+CUST000745,0,25.0,Tablet,Tier 2,98.4,UPI,Male,4.7,1,Fashion,1,Divorced,3,0,15.6,2,6,42.4,237.47
+CUST000746,1,28.9,Tablet,Tier 3,5.7,Credit Card,Female,0.3,1,Laptop & Accessory,5,Single,15,0,25.1,9,11,1.6,304.73
+CUST000747,0,1.2,Tablet,Tier 1,5.2,Debit Card,Female,0.5,6,Mobile Phone,4,Divorced,1,0,15.8,13,3,35.3,277.95
+CUST000748,0,15.6,Mobile Phone,Tier 3,51.1,Credit Card,Male,0.9,2,Others,4,Divorced,2,0,20.8,13,4,30.9,226.76
+CUST000749,1,45.6,Tablet,Tier 3,22.5,UPI,Female,3.5,3,Mobile Phone,2,Single,10,0,12.2,2,13,2.3,117.15
+CUST000750,0,8.2,Tablet,Tier 2,7.2,Debit Card,Female,3.2,2,Grocery,2,Divorced,16,0,14.6,0,11,25.0,246.86
+CUST000751,0,32.1,Mobile Phone,Tier 2,61.6,Cash on Delivery,Female,4.5,2,Grocery,5,Divorced,15,0,22.6,0,10,23.7,218.48
+CUST000752,1,12.9,Mobile Phone,Tier 2,120.1,Debit Card,Male,3.7,2,Laptop & Accessory,2,Single,15,0,18.9,1,3,31.8,141.44
+CUST000753,0,0.7,Mobile Phone,Tier 1,44.5,Cash on Delivery,Female,2.5,6,Grocery,3,Divorced,14,1,24.9,9,13,3.6,298.51
+CUST000754,0,14.5,Mobile Phone,Tier 1,85.7,Debit Card,Male,5.0,6,Mobile Phone,3,Married,22,0,17.4,3,6,37.0,177.23
+CUST000755,0,58.6,Mobile Phone,Tier 2,84.6,UPI,Male,1.3,6,Fashion,3,Divorced,14,1,24.0,3,1,6.4,187.18
+CUST000756,1,48.1,Mobile Phone,Tier 2,35.6,UPI,Male,4.2,2,Mobile Phone,3,Divorced,6,0,17.7,12,8,19.3,251.29
+CUST000757,0,57.6,Tablet,Tier 1,84.4,Debit Card,Male,2.1,3,Laptop & Accessory,5,Divorced,14,0,25.7,8,8,40.5,209.98
+CUST000758,0,29.3,Tablet,Tier 1,30.9,Credit Card,Male,3.2,1,Grocery,4,Single,17,0,25.4,6,9,25.8,120.09
+CUST000759,1,6.6,Computer,Tier 1,19.9,UPI,Female,3.6,5,Fashion,3,Married,18,0,15.9,15,6,17.5,187.17
+CUST000760,1,32.9,Tablet,Tier 1,90.6,Cash on Delivery,Male,3.2,1,Others,2,Married,20,1,24.3,2,1,2.2,121.25
+CUST000761,0,27.3,Tablet,Tier 2,18.8,Cash on Delivery,Male,0.7,1,Fashion,3,Divorced,19,0,23.7,9,3,30.9,142.92
+CUST000762,0,50.7,Mobile Phone,Tier 1,126.6,E-wallet,Male,2.2,5,Fashion,5,Single,17,1,14.2,15,15,45.4,101.61
+CUST000763,0,5.9,Mobile Phone,Tier 2,27.4,Cash on Delivery,Female,2.8,2,Mobile Phone,2,Single,16,1,20.4,2,1,41.9,140.8
+CUST000764,1,29.3,Tablet,Tier 3,77.5,E-wallet,Female,4.2,3,Others,3,Married,8,0,12.1,10,15,33.0,174.35
+CUST000765,0,9.0,Computer,Tier 3,55.2,Debit Card,Female,2.2,3,Laptop & Accessory,4,Single,7,1,23.6,9,13,4.8,221.1
+CUST000766,0,19.5,Mobile Phone,Tier 1,20.4,Debit Card,Female,4.6,1,Laptop & Accessory,2,Divorced,20,0,13.6,15,15,11.0,306.84
+CUST000767,1,44.2,Tablet,Tier 3,8.4,Debit Card,Female,2.2,5,Fashion,2,Divorced,12,1,12.1,7,5,8.6,221.57
+CUST000768,1,28.6,Tablet,Tier 3,81.0,Credit Card,Female,2.7,4,Fashion,4,Single,9,0,17.0,8,3,16.4,258.76
+CUST000769,0,22.6,Computer,Tier 3,103.4,Credit Card,Female,4.0,2,Grocery,2,Divorced,14,0,19.7,14,14,10.8,180.48
+CUST000770,1,23.7,Computer,Tier 1,107.7,E-wallet,Male,2.9,1,Others,3,Married,20,1,23.8,2,2,11.2,269.12
+CUST000771,0,27.6,Mobile Phone,Tier 1,63.9,Cash on Delivery,Male,4.8,3,Fashion,2,Divorced,1,0,25.6,3,3,28.4,239.61
+CUST000772,1,47.1,Computer,Tier 3,99.8,Cash on Delivery,Female,3.3,6,Grocery,3,Single,10,0,17.6,12,9,14.7,203.45
+CUST000773,0,53.5,Tablet,Tier 2,87.1,Debit Card,Male,2.6,6,Others,4,Married,17,0,11.9,11,11,31.1,143.6
+CUST000774,0,57.3,Tablet,Tier 3,93.4,UPI,Male,0.1,5,Laptop & Accessory,1,Divorced,17,0,22.2,8,16,43.6,168.3
+CUST000775,1,47.2,Computer,Tier 1,65.1,Credit Card,Female,2.1,5,Grocery,4,Married,17,0,19.5,13,8,29.4,239.71
+CUST000776,0,18.9,Computer,Tier 1,82.3,Credit Card,Male,1.5,1,Others,3,Single,4,1,17.7,6,13,34.6,195.86
+CUST000777,0,41.3,Computer,Tier 1,103.3,Debit Card,Male,3.7,4,Grocery,5,Divorced,17,0,15.6,15,3,34.6,300.11
+CUST000778,1,26.3,Computer,Tier 3,53.5,Credit Card,Female,1.0,3,Fashion,4,Divorced,18,0,18.5,4,11,15.2,152.84
+CUST000779,1,15.3,Mobile Phone,Tier 2,103.3,Debit Card,Male,1.0,1,Mobile Phone,5,Married,20,0,16.1,9,2,0.7,116.44
+CUST000780,0,50.5,Computer,Tier 1,77.2,E-wallet,Female,0.9,4,Laptop & Accessory,5,Divorced,2,0,22.4,10,5,2.5,232.6
+CUST000781,0,2.3,Mobile Phone,Tier 1,25.2,Cash on Delivery,Female,0.6,5,Fashion,3,Divorced,8,0,19.2,6,12,13.0,299.36
+CUST000782,0,54.1,Tablet,Tier 3,8.0,UPI,Male,1.6,6,Fashion,3,Divorced,13,1,24.2,13,12,31.7,182.07
+CUST000783,0,27.7,Computer,Tier 2,49.3,Cash on Delivery,Male,4.4,2,Others,1,Divorced,22,1,19.2,10,13,41.7,245.74
+CUST000784,0,38.2,Mobile Phone,Tier 3,71.7,Cash on Delivery,Male,3.9,6,Grocery,2,Single,20,0,14.6,11,12,44.1,152.07
+CUST000785,0,39.6,Computer,Tier 1,107.5,E-wallet,Female,3.7,3,Laptop & Accessory,4,Divorced,22,0,23.8,1,1,1.2,225.66
+CUST000786,1,53.7,Tablet,Tier 2,20.6,Credit Card,Female,4.0,3,Fashion,3,Married,15,1,19.4,0,4,45.5,277.03
+CUST000787,0,38.2,Tablet,Tier 2,102.6,UPI,Female,1.3,6,Others,4,Single,20,1,14.1,9,8,14.8,295.08
+CUST000788,0,36.8,Tablet,Tier 1,110.3,Credit Card,Male,4.4,6,Laptop & Accessory,5,Married,9,0,20.4,0,1,38.8,123.65
+CUST000789,0,4.0,Computer,Tier 2,23.4,Cash on Delivery,Male,0.7,4,Grocery,2,Married,3,0,16.4,5,5,8.3,180.18
+CUST000790,1,31.1,Computer,Tier 2,108.9,Debit Card,Female,1.7,1,Fashion,1,Married,3,1,23.7,6,12,2.9,243.92
+CUST000791,0,9.0,Mobile Phone,Tier 3,126.0,Cash on Delivery,Male,2.9,5,Fashion,4,Single,2,0,17.8,16,4,17.4,107.81
+CUST000792,0,44.2,Tablet,Tier 1,93.7,Credit Card,Male,0.5,4,Fashion,2,Single,1,0,21.9,8,6,39.5,255.39
+CUST000793,0,30.7,Computer,Tier 1,100.7,Cash on Delivery,Female,3.7,2,Laptop & Accessory,1,Single,14,0,12.4,6,7,10.2,218.81
+CUST000794,0,40.8,Tablet,Tier 1,126.3,Debit Card,Female,1.9,6,Laptop & Accessory,4,Divorced,17,0,16.9,16,9,7.1,164.93
+CUST000795,0,2.5,Tablet,Tier 1,78.9,E-wallet,Male,3.9,2,Laptop & Accessory,2,Married,13,0,25.7,2,1,41.9,283.3
+CUST000796,1,5.1,Mobile Phone,Tier 1,42.6,Credit Card,Female,2.5,2,Laptop & Accessory,3,Single,19,0,23.1,15,11,43.2,165.26
+CUST000797,1,43.0,Mobile Phone,Tier 2,107.2,Cash on Delivery,Male,0.9,4,Others,4,Married,15,0,13.4,4,10,0.6,323.07
+CUST000798,0,4.3,Mobile Phone,Tier 3,80.0,Credit Card,Female,3.7,5,Mobile Phone,2,Single,14,0,15.2,0,16,33.5,283.68
+CUST000799,0,4.3,Mobile Phone,Tier 1,75.9,E-wallet,Female,1.3,3,Others,1,Single,2,0,15.9,3,4,14.2,259.3
+CUST000800,1,0.7,Tablet,Tier 3,35.9,Cash on Delivery,Female,2.5,1,Fashion,2,Single,7,0,20.8,10,6,17.2,113.8
+CUST000801,1,57.4,Mobile Phone,Tier 3,97.3,Cash on Delivery,Male,0.4,3,Others,3,Married,17,1,22.4,8,10,21.6,303.47
+CUST000802,0,44.3,Mobile Phone,Tier 2,15.0,Credit Card,Male,3.1,5,Grocery,4,Divorced,18,1,22.2,7,7,19.6,277.76
+CUST000803,0,21.2,Mobile Phone,Tier 1,117.8,Credit Card,Female,3.3,3,Laptop & Accessory,4,Single,6,0,18.6,7,7,23.7,151.53
+CUST000804,0,17.8,Mobile Phone,Tier 2,44.8,Debit Card,Female,1.9,6,Grocery,4,Single,21,0,23.2,4,8,26.8,188.26
+CUST000805,0,21.0,Tablet,Tier 1,20.6,E-wallet,Female,4.8,6,Grocery,3,Single,8,1,17.6,11,14,21.4,160.44
+CUST000806,1,46.5,Mobile Phone,Tier 2,59.0,Debit Card,Male,4.4,4,Fashion,1,Divorced,2,0,12.9,0,10,32.3,321.49
+CUST000807,1,39.7,Tablet,Tier 3,10.2,Cash on Delivery,Female,3.5,2,Laptop & Accessory,4,Married,1,0,19.5,14,8,33.1,292.19
+CUST000808,1,11.1,Computer,Tier 1,88.5,Credit Card,Female,3.6,5,Grocery,1,Married,16,1,25.3,5,8,20.3,309.3
+CUST000809,0,10.4,Tablet,Tier 3,115.1,Cash on Delivery,Female,1.3,5,Fashion,2,Married,7,0,22.9,9,8,6.6,277.47
+CUST000810,0,5.9,Tablet,Tier 3,107.1,Cash on Delivery,Female,3.3,3,Laptop & Accessory,1,Married,22,1,19.7,13,16,29.5,202.68
+CUST000811,1,39.6,Mobile Phone,Tier 2,20.5,UPI,Male,1.0,4,Mobile Phone,1,Single,11,1,20.7,7,12,35.6,146.22
+CUST000812,1,45.9,Computer,Tier 1,20.4,UPI,Male,0.7,3,Fashion,4,Divorced,15,0,25.0,2,15,29.4,146.82
+CUST000813,0,15.9,Computer,Tier 3,104.2,Cash on Delivery,Female,5.0,3,Others,5,Single,13,0,17.4,11,8,27.1,134.13
+CUST000814,1,1.3,Computer,Tier 2,117.8,Credit Card,Male,3.1,5,Laptop & Accessory,5,Divorced,2,0,16.0,11,6,10.6,223.0
+CUST000815,1,4.9,Computer,Tier 1,61.2,Cash on Delivery,Male,2.2,3,Grocery,3,Married,14,0,25.7,14,9,29.7,306.99
+CUST000816,0,58.1,Tablet,Tier 1,65.9,UPI,Male,1.4,2,Grocery,3,Divorced,6,0,24.0,6,3,15.4,323.15
+CUST000817,0,17.7,Computer,Tier 3,43.8,Credit Card,Female,3.0,3,Others,5,Single,9,0,15.8,3,6,42.3,164.64
+CUST000818,0,46.2,Tablet,Tier 1,114.1,Cash on Delivery,Male,0.2,2,Others,2,Single,7,0,18.0,8,5,30.1,256.9
+CUST000819,0,37.5,Tablet,Tier 3,83.7,E-wallet,Male,0.5,5,Grocery,4,Married,18,1,17.2,15,15,12.8,234.35
+CUST000820,0,22.9,Tablet,Tier 1,40.2,E-wallet,Male,0.2,4,Laptop & Accessory,4,Single,9,0,13.2,12,16,21.8,210.01
+CUST000821,1,12.3,Computer,Tier 2,41.5,Cash on Delivery,Female,2.5,6,Fashion,2,Single,4,0,25.4,3,15,38.9,249.8
+CUST000822,0,7.3,Mobile Phone,Tier 3,113.7,Credit Card,Female,3.0,2,Others,2,Divorced,9,0,17.1,8,8,15.4,183.56
+CUST000823,0,36.9,Mobile Phone,Tier 3,6.7,Cash on Delivery,Male,0.3,4,Others,5,Single,4,0,24.1,14,4,24.2,312.51
+CUST000824,0,46.5,Computer,Tier 1,44.4,Cash on Delivery,Male,3.6,4,Others,3,Married,12,0,13.8,14,4,31.3,258.73
+CUST000825,0,38.6,Mobile Phone,Tier 1,72.6,UPI,Female,1.2,2,Mobile Phone,2,Married,4,0,19.2,5,13,34.7,269.7
+CUST000826,1,31.8,Mobile Phone,Tier 3,23.1,E-wallet,Female,3.4,5,Laptop & Accessory,3,Single,20,0,11.4,10,15,8.0,154.54
+CUST000827,0,2.5,Tablet,Tier 1,16.2,UPI,Male,4.9,1,Laptop & Accessory,1,Married,14,1,22.5,7,16,26.0,137.93
+CUST000828,0,58.1,Tablet,Tier 2,104.5,UPI,Male,3.5,4,Laptop & Accessory,4,Divorced,7,1,19.7,16,10,42.0,188.73
+CUST000829,1,47.9,Computer,Tier 1,114.1,Cash on Delivery,Female,4.4,4,Laptop & Accessory,5,Divorced,13,0,20.4,16,11,44.5,272.5
+CUST000830,0,17.6,Computer,Tier 2,105.5,UPI,Female,4.7,5,Laptop & Accessory,4,Single,22,0,11.8,3,10,30.2,311.23
+CUST000831,0,58.8,Mobile Phone,Tier 2,114.7,E-wallet,Male,2.4,5,Grocery,5,Single,8,0,14.2,14,13,45.2,196.15
+CUST000832,0,36.1,Tablet,Tier 2,72.5,UPI,Female,3.5,3,Others,1,Divorced,5,0,12.1,1,5,26.3,274.19
+CUST000833,0,34.9,Computer,Tier 2,104.1,E-wallet,Male,4.3,5,Grocery,4,Married,12,0,15.3,1,11,20.4,205.84
+CUST000834,0,44.9,Computer,Tier 2,51.9,UPI,Male,1.8,4,Mobile Phone,1,Single,13,1,20.4,9,13,25.4,166.43
+CUST000835,0,48.7,Computer,Tier 1,86.3,E-wallet,Male,1.3,2,Fashion,5,Single,20,0,19.5,2,13,5.3,266.33
+CUST000836,0,39.4,Computer,Tier 2,125.6,UPI,Female,4.7,1,Others,2,Married,14,0,20.2,7,15,18.5,279.6
+CUST000837,1,7.7,Computer,Tier 1,32.5,UPI,Male,3.6,3,Mobile Phone,4,Single,18,0,19.2,6,6,21.1,145.64
+CUST000838,0,20.3,Computer,Tier 2,52.6,Credit Card,Male,1.1,2,Grocery,1,Married,20,1,15.1,11,16,39.0,168.66
+CUST000839,0,55.7,Mobile Phone,Tier 3,63.6,E-wallet,Female,2.2,1,Fashion,4,Married,4,1,14.7,14,15,34.9,211.32
+CUST000840,0,13.5,Tablet,Tier 2,21.8,E-wallet,Female,4.0,1,Mobile Phone,4,Married,21,0,13.1,13,11,27.7,141.97
+CUST000841,0,22.3,Tablet,Tier 3,14.9,E-wallet,Male,2.7,1,Fashion,4,Married,18,0,23.7,15,4,16.0,308.99
+CUST000842,0,25.9,Computer,Tier 2,106.2,Debit Card,Male,3.2,6,Mobile Phone,3,Married,7,0,20.2,13,2,8.6,233.05
+CUST000843,0,26.4,Tablet,Tier 2,124.2,UPI,Female,3.8,2,Grocery,1,Divorced,15,0,13.8,2,12,16.0,127.27
+CUST000844,1,36.8,Tablet,Tier 2,54.4,E-wallet,Female,3.1,3,Fashion,1,Married,21,0,13.7,5,12,31.3,141.41
+CUST000845,0,56.6,Tablet,Tier 3,15.7,Debit Card,Female,2.7,3,Mobile Phone,4,Divorced,6,1,24.1,16,14,12.1,314.73
+CUST000846,0,14.4,Computer,Tier 3,13.0,Credit Card,Male,3.7,1,Grocery,2,Married,16,0,22.1,13,2,19.6,266.09
+CUST000847,0,7.3,Computer,Tier 2,113.7,E-wallet,Male,3.6,2,Others,4,Single,20,1,20.9,13,12,17.8,265.24
+CUST000848,1,11.8,Tablet,Tier 1,61.6,E-wallet,Male,3.1,6,Grocery,3,Divorced,8,0,17.1,12,16,35.2,116.31
+CUST000849,0,53.2,Tablet,Tier 2,44.0,Debit Card,Female,1.8,1,Grocery,5,Single,21,1,14.9,2,3,40.7,301.44
+CUST000850,0,38.7,Computer,Tier 3,63.1,UPI,Male,2.0,5,Others,3,Married,16,1,25.7,12,2,32.2,199.84
+CUST000851,0,17.2,Mobile Phone,Tier 2,43.8,Credit Card,Female,4.9,3,Grocery,2,Married,22,0,23.0,1,1,15.7,248.44
+CUST000852,1,49.0,Tablet,Tier 3,64.7,E-wallet,Male,0.6,4,Others,4,Single,16,0,15.5,8,14,19.9,315.93
+CUST000853,0,51.7,Mobile Phone,Tier 3,109.9,UPI,Female,1.3,1,Others,1,Married,3,0,23.7,12,8,6.6,122.5
+CUST000854,1,50.8,Tablet,Tier 3,77.3,Credit Card,Male,2.5,5,Others,4,Single,17,1,22.4,7,12,7.7,208.51
+CUST000855,0,55.1,Mobile Phone,Tier 2,89.7,Cash on Delivery,Male,4.2,3,Mobile Phone,2,Married,9,0,15.5,15,16,7.6,111.16
+CUST000856,0,15.1,Mobile Phone,Tier 3,49.5,Cash on Delivery,Female,0.8,6,Fashion,1,Married,3,0,17.4,2,16,6.0,212.4
+CUST000857,0,45.3,Mobile Phone,Tier 3,95.1,Credit Card,Female,1.4,2,Mobile Phone,3,Divorced,20,0,13.8,12,5,8.3,156.76
+CUST000858,0,27.6,Computer,Tier 2,86.3,Debit Card,Male,0.3,3,Others,5,Single,7,0,12.7,3,10,9.3,304.99
+CUST000859,0,50.5,Mobile Phone,Tier 3,19.6,Credit Card,Female,3.5,2,Fashion,5,Married,18,0,21.8,1,1,5.1,189.66
+CUST000860,0,43.7,Mobile Phone,Tier 2,74.9,Credit Card,Female,1.2,2,Fashion,4,Single,12,0,15.0,14,13,29.5,242.62
+CUST000861,1,46.6,Mobile Phone,Tier 3,36.3,Debit Card,Male,1.9,6,Others,3,Divorced,19,0,23.3,16,16,45.6,293.56
+CUST000862,0,39.4,Tablet,Tier 1,103.1,Debit Card,Female,2.2,6,Fashion,2,Single,16,0,25.9,9,9,40.4,321.33
+CUST000863,0,10.6,Mobile Phone,Tier 1,57.0,UPI,Male,4.5,1,Fashion,5,Divorced,22,1,12.1,0,8,2.1,213.36
+CUST000864,0,32.7,Tablet,Tier 3,126.4,UPI,Male,2.1,1,Mobile Phone,3,Single,17,1,18.1,5,4,19.5,202.55
+CUST000865,0,59.1,Mobile Phone,Tier 1,16.3,Debit Card,Female,0.7,3,Fashion,4,Single,20,0,23.0,2,8,39.5,117.04
+CUST000866,0,56.2,Mobile Phone,Tier 2,100.2,Cash on Delivery,Female,2.6,6,Others,1,Divorced,15,1,22.8,6,13,6.2,102.87
+CUST000867,0,2.6,Computer,Tier 1,87.2,Cash on Delivery,Male,4.8,5,Laptop & Accessory,4,Married,1,0,22.4,12,12,39.0,236.98
+CUST000868,0,9.9,Tablet,Tier 3,98.6,Credit Card,Male,3.0,3,Laptop & Accessory,4,Married,2,0,16.2,12,13,27.3,114.73
+CUST000869,1,7.9,Mobile Phone,Tier 3,42.5,E-wallet,Male,4.9,4,Laptop & Accessory,3,Married,8,0,17.8,16,10,42.8,185.59
+CUST000870,1,43.6,Tablet,Tier 2,65.0,Credit Card,Male,4.2,2,Others,5,Single,22,0,19.9,0,16,40.3,100.81
+CUST000871,0,49.1,Tablet,Tier 3,102.2,Credit Card,Male,0.2,2,Laptop & Accessory,3,Single,2,0,25.6,13,7,31.1,238.43
+CUST000872,0,12.8,Computer,Tier 2,33.4,E-wallet,Male,3.3,1,Mobile Phone,1,Married,19,0,15.9,2,11,30.3,195.72
+CUST000873,0,30.4,Computer,Tier 1,32.6,Debit Card,Female,1.4,5,Others,3,Single,9,0,24.8,13,15,9.8,128.58
+CUST000874,0,50.4,Computer,Tier 1,72.2,Cash on Delivery,Female,2.8,6,Others,2,Single,9,1,15.0,0,11,5.4,166.68
+CUST000875,0,44.0,Computer,Tier 2,68.9,Credit Card,Female,1.4,6,Others,4,Married,13,0,25.8,15,7,19.1,228.17
+CUST000876,0,32.5,Computer,Tier 2,39.4,E-wallet,Male,1.7,1,Fashion,5,Divorced,6,0,21.1,9,1,8.6,247.76
+CUST000877,1,35.4,Computer,Tier 3,41.4,UPI,Female,4.6,4,Fashion,1,Single,15,1,18.0,12,6,4.7,204.03
+CUST000878,0,30.5,Computer,Tier 1,38.9,Credit Card,Male,1.0,3,Fashion,4,Single,19,1,20.2,3,13,13.9,280.89
+CUST000879,0,17.9,Computer,Tier 2,99.1,Cash on Delivery,Male,4.4,3,Grocery,3,Single,21,0,15.1,8,4,39.6,125.3
+CUST000880,0,33.9,Mobile Phone,Tier 1,84.5,Debit Card,Female,0.2,5,Mobile Phone,2,Single,15,0,15.1,13,14,0.8,119.02
+CUST000881,0,41.3,Tablet,Tier 2,106.6,Credit Card,Male,0.5,1,Others,3,Divorced,18,0,12.7,3,10,13.5,109.95
+CUST000882,0,52.4,Computer,Tier 1,124.0,Credit Card,Male,4.3,1,Others,4,Married,7,0,12.7,9,10,19.5,220.56
+CUST000883,0,38.2,Computer,Tier 3,62.8,E-wallet,Male,3.2,4,Fashion,1,Single,11,0,16.2,7,10,23.5,258.9
+CUST000884,0,45.7,Tablet,Tier 1,13.1,UPI,Male,3.7,3,Others,5,Married,8,0,22.4,2,11,8.4,129.37
+CUST000885,1,9.6,Mobile Phone,Tier 1,10.9,UPI,Male,1.0,1,Others,4,Single,6,1,20.1,6,12,44.4,243.76
+CUST000886,0,27.7,Tablet,Tier 1,41.1,Debit Card,Male,2.7,6,Laptop & Accessory,1,Divorced,8,0,12.5,9,2,26.6,207.31
+CUST000887,0,0.6,Tablet,Tier 1,118.8,Cash on Delivery,Female,3.7,5,Others,4,Married,2,1,23.8,2,10,24.0,322.15
+CUST000888,0,14.8,Computer,Tier 1,68.8,Debit Card,Male,3.1,3,Grocery,2,Divorced,19,1,20.0,1,7,0.4,261.43
+CUST000889,0,43.6,Tablet,Tier 3,38.2,Credit Card,Male,2.4,4,Fashion,3,Single,16,1,25.4,14,9,22.3,247.93
+CUST000890,0,59.5,Tablet,Tier 2,53.7,Credit Card,Male,4.8,5,Mobile Phone,5,Divorced,7,0,21.1,8,13,38.5,228.35
+CUST000891,1,6.0,Computer,Tier 1,78.0,UPI,Male,3.4,2,Mobile Phone,1,Divorced,10,1,13.6,14,5,10.1,324.41
+CUST000892,1,24.1,Computer,Tier 3,84.7,Cash on Delivery,Female,4.5,6,Laptop & Accessory,5,Single,12,0,18.1,16,8,16.2,320.6
+CUST000893,1,48.0,Computer,Tier 1,23.8,E-wallet,Female,3.6,4,Mobile Phone,5,Single,17,0,20.7,6,5,0.9,221.08
+CUST000894,0,12.2,Computer,Tier 1,124.2,Cash on Delivery,Male,3.7,5,Mobile Phone,5,Married,7,0,11.4,14,14,44.9,202.42
+CUST000895,0,33.3,Tablet,Tier 2,71.5,Credit Card,Male,0.4,1,Fashion,1,Single,22,0,11.2,11,7,3.1,203.98
+CUST000896,0,44.0,Tablet,Tier 1,21.6,E-wallet,Male,1.8,2,Fashion,1,Married,8,1,12.9,7,7,41.3,196.38
+CUST000897,0,37.0,Mobile Phone,Tier 3,114.0,Cash on Delivery,Female,4.3,4,Grocery,5,Divorced,7,1,14.8,1,9,14.4,219.56
+CUST000898,1,11.3,Mobile Phone,Tier 3,14.1,Cash on Delivery,Female,1.2,1,Laptop & Accessory,3,Divorced,4,0,17.4,1,3,27.0,161.56
+CUST000899,0,21.3,Tablet,Tier 2,115.7,E-wallet,Female,0.6,6,Mobile Phone,4,Married,3,0,18.3,4,14,31.2,308.53
+CUST000900,0,47.0,Mobile Phone,Tier 1,126.6,Credit Card,Female,1.6,2,Grocery,5,Single,19,0,13.1,0,1,6.5,210.3
+CUST000901,0,33.3,Tablet,Tier 3,90.5,Cash on Delivery,Male,1.1,3,Laptop & Accessory,2,Single,15,0,21.1,3,2,20.4,289.45
+CUST000902,0,0.3,Mobile Phone,Tier 1,99.0,E-wallet,Female,4.6,1,Mobile Phone,5,Divorced,4,1,19.9,5,12,15.0,206.94
+CUST000903,0,45.7,Computer,Tier 1,46.2,Credit Card,Female,4.3,5,Mobile Phone,1,Married,9,0,15.4,12,6,2.6,261.62
+CUST000904,0,2.1,Mobile Phone,Tier 1,119.9,E-wallet,Male,2.5,4,Fashion,4,Divorced,13,1,11.2,10,14,38.3,175.8
+CUST000905,0,44.7,Computer,Tier 2,69.6,E-wallet,Male,0.3,2,Others,2,Divorced,18,0,12.2,12,10,2.1,240.58
+CUST000906,1,12.1,Computer,Tier 1,94.4,Cash on Delivery,Female,3.6,1,Laptop & Accessory,4,Single,21,0,16.9,7,10,30.0,212.13
+CUST000907,1,57.5,Computer,Tier 3,117.7,Credit Card,Female,3.1,3,Mobile Phone,4,Married,16,0,13.3,6,12,14.4,182.6
+CUST000908,0,22.1,Computer,Tier 1,124.0,Cash on Delivery,Female,4.9,4,Laptop & Accessory,2,Divorced,1,0,16.7,12,13,8.8,298.35
+CUST000909,0,19.6,Mobile Phone,Tier 3,106.7,Debit Card,Female,2.8,4,Grocery,5,Single,4,0,20.4,0,14,30.7,125.36
+CUST000910,0,8.9,Tablet,Tier 1,42.0,Debit Card,Male,1.7,1,Grocery,5,Divorced,18,1,19.2,5,9,26.4,209.56
+CUST000911,0,18.3,Computer,Tier 3,122.9,Credit Card,Male,2.6,3,Others,5,Divorced,8,1,14.5,6,3,14.5,143.73
+CUST000912,0,52.6,Mobile Phone,Tier 3,81.6,E-wallet,Female,4.9,6,Mobile Phone,3,Single,20,0,16.2,15,10,23.6,293.74
+CUST000913,0,59.8,Computer,Tier 1,118.5,Cash on Delivery,Female,3.5,6,Fashion,5,Single,16,0,20.2,14,2,11.3,157.03
+CUST000914,0,22.1,Mobile Phone,Tier 1,87.5,Cash on Delivery,Female,3.4,2,Mobile Phone,2,Married,21,0,23.9,1,11,39.7,242.52
+CUST000915,0,26.9,Mobile Phone,Tier 3,42.5,Credit Card,Female,1.2,1,Laptop & Accessory,3,Divorced,11,0,22.3,15,1,14.4,137.25
+CUST000916,0,43.3,Mobile Phone,Tier 2,50.1,Credit Card,Female,3.7,2,Grocery,5,Married,20,0,19.3,16,16,11.3,191.11
+CUST000917,0,53.2,Tablet,Tier 1,72.2,Debit Card,Male,3.8,6,Laptop & Accessory,3,Single,21,0,16.4,14,2,34.6,302.36
+CUST000918,1,35.6,Mobile Phone,Tier 2,101.4,UPI,Male,1.6,4,Others,2,Single,21,1,16.5,2,3,0.8,137.36
+CUST000919,1,23.5,Mobile Phone,Tier 1,43.8,Credit Card,Male,2.4,2,Grocery,5,Divorced,21,0,24.2,3,7,12.3,249.22
+CUST000920,0,24.8,Tablet,Tier 1,75.7,UPI,Female,1.5,3,Fashion,1,Married,19,1,11.6,11,2,17.3,146.01
+CUST000921,1,41.7,Tablet,Tier 1,47.2,Credit Card,Female,1.3,5,Grocery,2,Married,19,0,25.8,4,13,40.6,193.54
+CUST000922,0,0.2,Mobile Phone,Tier 1,104.5,E-wallet,Male,0.1,6,Mobile Phone,4,Divorced,18,1,21.0,16,5,43.7,221.64
+CUST000923,1,37.2,Tablet,Tier 2,61.9,E-wallet,Male,1.4,6,Mobile Phone,4,Divorced,19,0,21.2,5,2,33.0,229.89
+CUST000924,1,21.3,Computer,Tier 1,14.4,Debit Card,Female,2.8,3,Grocery,2,Married,11,0,11.6,9,7,22.7,235.57
+CUST000925,0,47.7,Computer,Tier 3,25.3,Debit Card,Male,0.0,2,Others,4,Single,3,1,20.1,9,10,29.5,244.03
+CUST000926,0,5.6,Tablet,Tier 3,12.5,UPI,Female,1.4,1,Mobile Phone,2,Single,8,0,18.3,5,8,19.0,161.15
+CUST000927,0,35.3,Tablet,Tier 2,65.9,Credit Card,Female,4.4,4,Mobile Phone,1,Divorced,20,0,12.6,5,8,13.7,190.31
+CUST000928,0,28.9,Mobile Phone,Tier 1,18.0,Cash on Delivery,Male,3.0,5,Fashion,2,Married,19,0,15.2,14,13,43.7,108.4
+CUST000929,0,38.5,Tablet,Tier 3,18.9,Debit Card,Male,3.0,1,Grocery,5,Married,10,1,24.4,3,16,5.3,272.97
+CUST000930,0,3.9,Mobile Phone,Tier 2,119.8,Cash on Delivery,Male,2.0,1,Mobile Phone,5,Married,16,1,19.2,15,15,15.9,288.35
+CUST000931,0,34.8,Computer,Tier 1,111.5,Cash on Delivery,Female,3.4,3,Others,3,Single,5,0,17.2,7,8,41.4,144.83
+CUST000932,1,33.7,Tablet,Tier 3,60.2,Credit Card,Female,0.9,2,Laptop & Accessory,4,Single,20,0,12.1,6,10,33.3,145.32
+CUST000933,1,33.6,Mobile Phone,Tier 3,125.3,UPI,Male,4.1,6,Grocery,4,Married,9,1,21.7,16,15,1.3,109.46
+CUST000934,0,36.2,Mobile Phone,Tier 2,5.0,Credit Card,Female,0.6,6,Fashion,2,Married,8,0,21.5,12,9,1.1,318.34
+CUST000935,0,40.6,Computer,Tier 1,79.9,Debit Card,Female,3.3,3,Mobile Phone,4,Divorced,11,0,20.2,14,1,23.8,281.62
+CUST000936,0,48.3,Tablet,Tier 1,80.2,Cash on Delivery,Female,1.7,2,Others,5,Divorced,16,0,18.7,1,12,22.3,181.16
+CUST000937,0,16.2,Computer,Tier 3,60.8,Credit Card,Male,3.7,3,Grocery,1,Married,7,0,17.5,9,1,20.4,208.43
+CUST000938,1,49.5,Mobile Phone,Tier 3,53.4,Credit Card,Female,2.7,6,Others,2,Married,15,0,19.9,12,14,13.9,165.69
+CUST000939,0,29.9,Mobile Phone,Tier 3,60.6,Credit Card,Male,2.3,1,Others,4,Single,21,0,14.5,10,15,45.4,234.38
+CUST000940,0,4.6,Tablet,Tier 1,55.6,Debit Card,Male,0.8,4,Fashion,5,Married,20,0,25.1,12,14,12.5,261.39
+CUST000941,0,3.5,Mobile Phone,Tier 2,94.1,UPI,Female,3.2,2,Grocery,3,Divorced,17,0,19.8,4,14,22.5,200.66
+CUST000942,0,20.1,Tablet,Tier 2,21.5,Credit Card,Male,4.9,5,Mobile Phone,4,Single,6,0,15.7,2,10,18.6,296.56
+CUST000943,0,47.1,Computer,Tier 1,29.1,Debit Card,Female,4.1,5,Fashion,1,Divorced,15,0,17.7,12,2,7.8,216.33
+CUST000944,1,42.5,Tablet,Tier 2,27.0,Cash on Delivery,Male,0.3,1,Mobile Phone,1,Divorced,8,1,23.1,4,11,9.3,132.46
+CUST000945,0,47.3,Tablet,Tier 3,37.0,E-wallet,Male,1.9,3,Laptop & Accessory,4,Single,7,0,13.4,11,15,42.2,240.02
+CUST000946,0,31.0,Mobile Phone,Tier 2,69.1,Debit Card,Female,4.6,3,Others,4,Divorced,2,0,15.4,13,6,39.5,204.0
+CUST000947,0,26.4,Mobile Phone,Tier 2,18.6,E-wallet,Male,2.5,6,Laptop & Accessory,5,Married,13,1,21.2,5,14,9.2,310.53
+CUST000948,1,8.8,Tablet,Tier 2,110.9,Credit Card,Male,3.3,1,Others,4,Divorced,6,0,15.7,8,1,40.3,188.18
+CUST000949,1,19.7,Mobile Phone,Tier 3,41.3,Credit Card,Male,4.6,6,Fashion,3,Single,5,0,22.9,16,5,9.6,190.64
+CUST000950,0,26.0,Mobile Phone,Tier 1,24.8,Debit Card,Female,4.4,6,Mobile Phone,5,Single,20,0,13.0,7,15,28.8,246.42
+CUST000951,0,5.3,Mobile Phone,Tier 3,87.4,E-wallet,Female,2.5,5,Mobile Phone,2,Single,1,1,22.4,12,5,3.7,218.57
+CUST000952,0,13.2,Tablet,Tier 1,9.6,Credit Card,Male,2.2,6,Fashion,3,Divorced,18,1,12.0,4,15,40.5,184.25
+CUST000953,0,35.9,Mobile Phone,Tier 1,80.6,Cash on Delivery,Male,1.7,6,Grocery,5,Married,15,1,11.2,16,15,2.4,322.7
+CUST000954,1,44.1,Tablet,Tier 1,90.2,UPI,Male,3.6,5,Laptop & Accessory,5,Single,10,1,24.5,2,4,25.5,167.99
+CUST000955,0,59.9,Mobile Phone,Tier 2,31.2,UPI,Female,1.4,3,Laptop & Accessory,1,Married,3,0,19.7,5,11,35.9,162.44
+CUST000956,0,56.0,Computer,Tier 2,10.1,Credit Card,Female,1.2,2,Mobile Phone,5,Single,5,0,16.3,13,5,5.4,294.5
+CUST000957,0,38.6,Mobile Phone,Tier 1,49.4,E-wallet,Male,1.8,4,Mobile Phone,3,Married,13,0,14.5,14,12,18.6,100.76
+CUST000958,0,25.3,Mobile Phone,Tier 1,17.0,Credit Card,Female,0.9,6,Mobile Phone,4,Married,8,0,20.3,13,1,1.9,145.28
+CUST000959,0,38.2,Tablet,Tier 2,19.2,E-wallet,Female,3.5,2,Fashion,3,Married,22,0,18.6,10,11,31.4,232.85
+CUST000960,1,47.1,Tablet,Tier 3,36.0,Cash on Delivery,Female,3.1,5,Grocery,2,Single,21,0,25.9,10,11,14.1,136.55
+CUST000961,0,7.1,Mobile Phone,Tier 1,41.0,E-wallet,Female,2.4,2,Laptop & Accessory,5,Divorced,2,0,25.7,8,6,25.7,321.81
+CUST000962,0,24.6,Computer,Tier 3,69.7,Credit Card,Male,2.0,4,Others,5,Divorced,9,1,20.5,5,7,42.9,204.44
+CUST000963,0,50.4,Mobile Phone,Tier 2,87.8,Cash on Delivery,Female,4.5,2,Fashion,5,Divorced,17,0,17.6,14,8,14.1,234.41
+CUST000964,0,23.0,Mobile Phone,Tier 1,77.3,Debit Card,Female,0.1,2,Laptop & Accessory,5,Married,18,0,18.4,11,15,2.2,136.08
+CUST000965,0,34.3,Computer,Tier 3,23.1,UPI,Male,3.8,2,Grocery,1,Single,13,0,21.2,5,2,31.1,165.11
+CUST000966,0,35.3,Tablet,Tier 3,26.0,Credit Card,Male,4.5,2,Fashion,1,Married,1,0,12.5,0,15,36.2,238.29
+CUST000967,1,11.1,Mobile Phone,Tier 3,112.2,Credit Card,Female,2.2,1,Laptop & Accessory,4,Single,12,0,15.9,15,15,44.1,223.65
+CUST000968,0,21.7,Tablet,Tier 2,73.1,Credit Card,Female,2.8,6,Fashion,5,Married,20,0,12.1,14,7,7.3,276.48
+CUST000969,0,20.1,Tablet,Tier 2,111.1,Cash on Delivery,Male,4.7,5,Laptop & Accessory,2,Single,20,0,12.1,1,6,18.0,160.58
+CUST000970,0,1.6,Computer,Tier 3,50.3,Debit Card,Male,1.1,4,Laptop & Accessory,4,Single,21,1,13.9,16,9,38.8,247.05
+CUST000971,0,1.5,Computer,Tier 3,80.0,E-wallet,Male,2.6,5,Grocery,5,Single,5,1,18.3,2,15,37.1,165.47
+CUST000972,1,49.9,Tablet,Tier 2,68.9,Debit Card,Female,2.4,1,Others,1,Married,8,0,22.8,2,8,28.7,232.02
+CUST000973,1,16.4,Mobile Phone,Tier 3,43.9,Cash on Delivery,Female,1.3,1,Grocery,2,Divorced,15,0,18.3,4,14,12.4,236.13
+CUST000974,0,31.1,Tablet,Tier 3,62.3,Credit Card,Male,4.1,1,Laptop & Accessory,4,Married,3,0,16.0,16,16,13.1,127.41
+CUST000975,0,17.9,Mobile Phone,Tier 2,66.3,UPI,Female,4.5,6,Fashion,2,Married,6,1,12.2,16,11,5.7,223.44
+CUST000976,0,56.4,Mobile Phone,Tier 3,29.5,Credit Card,Male,3.9,1,Grocery,5,Single,13,0,19.3,5,14,42.4,102.69
+CUST000977,0,15.6,Computer,Tier 3,43.4,E-wallet,Female,1.0,2,Others,3,Single,12,0,15.1,0,15,8.0,212.77
+CUST000978,0,25.8,Mobile Phone,Tier 3,101.6,UPI,Male,0.4,5,Laptop & Accessory,2,Divorced,19,1,20.2,6,4,26.4,256.94
+CUST000979,0,52.4,Mobile Phone,Tier 2,116.7,Credit Card,Male,3.0,3,Grocery,2,Divorced,18,0,25.7,14,14,26.9,116.39
+CUST000980,0,50.5,Tablet,Tier 3,48.9,UPI,Female,0.3,4,Grocery,1,Single,1,0,12.7,6,13,17.0,311.21
+CUST000981,0,11.2,Computer,Tier 2,42.5,Debit Card,Female,3.4,1,Grocery,5,Divorced,7,0,14.2,10,9,16.2,203.22
+CUST000982,1,48.2,Mobile Phone,Tier 2,28.8,Cash on Delivery,Female,2.7,5,Grocery,2,Divorced,12,0,18.1,13,1,30.8,311.14
+CUST000983,0,27.5,Mobile Phone,Tier 1,87.8,Credit Card,Female,3.3,1,Fashion,5,Single,10,0,25.5,12,11,17.9,124.16
+CUST000984,0,29.0,Computer,Tier 1,44.4,E-wallet,Female,3.0,6,Others,1,Married,12,0,22.6,8,6,11.7,313.73
+CUST000985,1,8.0,Tablet,Tier 3,125.5,Debit Card,Female,2.1,1,Others,5,Divorced,11,1,24.5,8,16,18.4,124.57
+CUST000986,0,4.8,Computer,Tier 2,44.7,Credit Card,Male,1.0,1,Laptop & Accessory,1,Single,4,0,16.0,15,8,37.2,203.84
+CUST000987,0,43.7,Computer,Tier 1,53.1,Debit Card,Female,1.5,1,Mobile Phone,1,Divorced,19,0,25.9,11,11,44.5,311.05
+CUST000988,0,29.8,Mobile Phone,Tier 3,78.6,E-wallet,Male,2.6,1,Fashion,4,Divorced,6,0,12.5,9,11,29.3,152.36
+CUST000989,0,26.2,Mobile Phone,Tier 1,102.8,Credit Card,Male,3.3,4,Laptop & Accessory,5,Single,9,1,11.8,5,4,36.0,107.83
+CUST000990,1,43.8,Tablet,Tier 1,62.3,E-wallet,Female,3.9,5,Laptop & Accessory,3,Divorced,20,0,23.8,1,2,24.5,278.45
+CUST000991,1,45.9,Mobile Phone,Tier 2,56.6,UPI,Male,3.8,6,Grocery,4,Divorced,10,0,24.9,8,11,28.7,234.07
+CUST000992,0,9.5,Mobile Phone,Tier 2,126.5,E-wallet,Male,4.9,1,Mobile Phone,1,Divorced,5,0,12.4,5,2,45.5,215.63
+CUST000993,0,36.6,Computer,Tier 1,6.3,UPI,Female,1.4,1,Mobile Phone,3,Married,13,1,12.7,1,16,20.2,107.73
+CUST000994,0,8.1,Mobile Phone,Tier 1,114.2,Credit Card,Female,0.4,1,Fashion,2,Married,9,0,11.5,14,10,3.0,246.98
+CUST000995,0,45.1,Tablet,Tier 2,23.2,UPI,Female,1.7,1,Mobile Phone,2,Divorced,2,0,12.6,16,1,44.0,138.62
+CUST000996,0,39.4,Computer,Tier 3,100.9,Credit Card,Male,3.7,2,Laptop & Accessory,4,Single,18,0,14.1,15,16,36.5,309.52
+CUST000997,1,57.4,Tablet,Tier 2,80.4,Credit Card,Female,2.2,2,Mobile Phone,3,Divorced,21,1,25.6,7,5,18.3,254.29
+CUST000998,0,4.1,Computer,Tier 1,46.7,Cash on Delivery,Female,4.1,3,Mobile Phone,5,Divorced,1,0,21.0,9,16,45.2,259.08
+CUST000999,1,3.4,Mobile Phone,Tier 3,111.6,Credit Card,Female,2.7,1,Others,3,Married,21,0,22.7,9,13,15.9,152.33
+CUST001000,0,16.9,Computer,Tier 1,6.6,UPI,Female,4.6,3,Laptop & Accessory,4,Married,12,1,22.6,9,6,17.1,298.17

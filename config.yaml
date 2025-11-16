@@ -1,0 +1,21 @@
+models:
+  logistic_regression:
+    model_class: LogisticRegression
+    params:
+      max_iter: 10000
+      solver: lbfgs
+      C: 1.0
+    display_name: Logistic Regression
+  decision_tree:
+    model_class: DecisionTreeClassifier
+    params:
+      random_state: 42
+      max_depth: 10
+    display_name: Decision Tree
+  random_forest:
+    model_class: RandomForestClassifier
+    params:
+      n_estimators: 100
+      random_state: 42
+      n_jobs: -1
+    display_name: Random Forest
