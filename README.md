@@ -169,7 +169,3 @@ Ensure `E Commerce Dataset.xlsx` exists in the data folder.
 ## 👨‍💻 Author
 
 **Marouane Ben** - [@isMarouaneBen](https://github.com/isMarouaneBen)
-
-## 📄 License
-
-MIT License
